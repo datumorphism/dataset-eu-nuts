@@ -1,0 +1,1837 @@
+nuts_code,nuts_level,country,nuts_1,nuts_2,nuts_3
+BE,0.0,BELGIQUE-BELGIË ,,,
+BE1,1.0,,RÉGION DE BRUXELLES-CAPITALE / BRUSSELS HOOFDSTEDELIJK GEWEST,,
+BE10,2.0,,,Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest,
+BE100,3.0,,,,Arr. de Bruxelles-Capitale / Arr. van Brussel-Hoofdstad
+BE2,1.0,,VLAAMS GEWEST,,
+BE21,2.0,,,Prov. Antwerpen,
+BE211,3.0,,,,Arr. Antwerpen
+BE212,3.0,,,,Arr. Mechelen
+BE213,3.0,,,,Arr. Turnhout
+BE22,2.0,,,Prov. Limburg (BE),
+BE221,3.0,,,,Arr. Hasselt
+BE222,3.0,,,,Arr. Maaseik
+BE223,3.0,,,,Arr. Tongeren
+BE23,2.0,,,Prov. Oost-Vlaanderen,
+BE231,3.0,,,,Arr. Aalst
+BE232,3.0,,,,Arr. Dendermonde
+BE233,3.0,,,,Arr. Eeklo
+BE234,3.0,,,,Arr. Gent
+BE235,3.0,,,,Arr. Oudenaarde
+BE236,3.0,,,,Arr. Sint-Niklaas
+BE24,2.0,,,Prov. Vlaams-Brabant,
+BE241,3.0,,,,Arr. Halle-Vilvoorde
+BE242,3.0,,,,Arr. Leuven
+BE25,2.0,,,Prov. West-Vlaanderen,
+BE251,3.0,,,,Arr. Brugge
+BE252,3.0,,,,Arr. Diksmuide
+BE253,3.0,,,,Arr. Ieper
+BE254,3.0,,,,Arr. Kortrijk
+BE255,3.0,,,,Arr. Oostende
+BE256,3.0,,,,Arr. Roeselare
+BE257,3.0,,,,Arr. Tielt
+BE258,3.0,,,,Arr. Veurne
+BE3,1.0,,RÉGION WALLONNE,,
+BE31,2.0,,,Prov. Brabant Wallon,
+BE310,3.0,,,,Arr. Nivelles
+BE32,2.0,,,Prov. Hainaut,
+BE321,3.0,,,,Arr. Ath
+BE322,3.0,,,,Arr. Charleroi
+BE323,3.0,,,,Arr. Mons
+BE324,3.0,,,,Arr. Mouscron
+BE325,3.0,,,,Arr. Soignies
+BE326,3.0,,,,Arr. Thuin
+BE327,3.0,,,,Arr. Tournai
+BE33,2.0,,,Prov. Liège,
+BE331,3.0,,,,Arr. Huy
+BE332,3.0,,,,Arr. Liège
+BE334,3.0,,,,Arr. Waremme
+BE335,3.0,,,,Arr. Verviers - communes francophones
+BE336,3.0,,,,Bezirk Verviers - Deutschsprachige Gemeinschaft
+BE34,2.0,,,Prov. Luxembourg (BE),
+BE341,3.0,,,,Arr. Arlon
+BE342,3.0,,,,Arr. Bastogne
+BE343,3.0,,,,Arr. Marche-en-Famenne
+BE344,3.0,,,,Arr. Neufchâteau
+BE345,3.0,,,,Arr. Virton
+BE35,2.0,,,Prov. Namur,
+BE351,3.0,,,,Arr. Dinant
+BE352,3.0,,,,Arr. Namur
+BE353,3.0,,,,Arr. Philippeville
+BEZ,1.0,,EXTRA-REGIO NUTS 1,,
+BEZZ,2.0,,,Extra-Regio NUTS 2,
+BEZZZ,3.0,,,,Extra-Regio NUTS 3
+BG,0.0,БЪЛГАРИЯ,,,
+BG3,1.0,,СЕВЕРНА И ЮГОИЗТОЧНА БЪЛГАРИЯ,,
+BG31,2.0,,,Северозападен,
+BG311,3.0,,,,Видин
+BG312,3.0,,,,Монтана
+BG313,3.0,,,,Враца
+BG314,3.0,,,,Плевен
+BG315,3.0,,,,Ловеч
+BG32,2.0,,,Северен централен,
+BG321,3.0,,,,Велико Търново
+BG322,3.0,,,,Габрово
+BG323,3.0,,,,Русе
+BG324,3.0,,,,Разград
+BG325,3.0,,,,Силистра
+BG33,2.0,,,Североизточен,
+BG331,3.0,,,,Варна
+BG332,3.0,,,,Добрич
+BG333,3.0,,,,Шумен
+BG334,3.0,,,,Търговище
+BG34,2.0,,,Югоизточен,
+BG341,3.0,,,,Бургас
+BG342,3.0,,,,Сливен
+BG343,3.0,,,,Ямбол
+BG344,3.0,,,,Стара Загора
+BG4,1.0,,ЮГОЗАПАДНА И ЮЖНА ЦЕНТРАЛНА БЪЛГАРИЯ,,
+BG41,2.0,,,Югозападен,
+BG411,3.0,,,,София (столица)
+BG412,3.0,,,,София
+BG413,3.0,,,,Благоевград
+BG414,3.0,,,,Перник
+BG415,3.0,,,,Кюстендил
+BG42,2.0,,,Южен централен,
+BG421,3.0,,,,Пловдив
+BG422,3.0,,,,Хасково
+BG423,3.0,,,,Пазарджик
+BG424,3.0,,,,Смолян
+BG425,3.0,,,,Кърджали
+BGZ,1.0,,EXTRA-REGIO NUTS 1,,
+BGZZ,2.0,,,Extra-Regio NUTS 2,
+BGZZZ,3.0,,,,Extra-Regio NUTS 3
+CZ,0.0,ČESKÁ REPUBLIKA,,,
+CZ0,1.0,,ČESKÁ REPUBLIKA,,
+CZ01,2.0,,,Praha,
+CZ010,3.0,,,,Hlavní město Praha
+CZ02,2.0,,,Střední Čechy,
+CZ020,3.0,,,,Středočeský kraj
+CZ03,2.0,,,Jihozápad,
+CZ031,3.0,,,,Jihočeský kraj
+CZ032,3.0,,,,Plzeňský kraj
+CZ04,2.0,,,Severozápad,
+CZ041,3.0,,,,Karlovarský kraj
+CZ042,3.0,,,,Ústecký kraj
+CZ05,2.0,,,Severovýchod,
+CZ051,3.0,,,,Liberecký kraj
+CZ052,3.0,,,,Královéhradecký kraj
+CZ053,3.0,,,,Pardubický kraj
+CZ06,2.0,,,Jihovýchod,
+CZ063,3.0,,,,Kraj Vysočina
+CZ064,3.0,,,,Jihomoravský kraj
+CZ07,2.0,,,Střední Morava,
+CZ071,3.0,,,,Olomoucký kraj
+CZ072,3.0,,,,Zlínský kraj
+CZ08,2.0,,,Moravskoslezsko,
+CZ080,3.0,,,,Moravskoslezský kraj
+CZZ,1.0,,EXTRA-REGIO NUTS 1,,
+CZZZ,2.0,,,Extra-Regio NUTS 2,
+CZZZZ,3.0,,,,Extra-Regio NUTS 3
+DK,0.0,DANMARK,,,
+DK0,1.0,,DANMARK,,
+DK01,2.0,,,Hovedstaden,
+DK011,3.0,,,,Byen København
+DK012,3.0,,,,Københavns omegn
+DK013,3.0,,,,Nordsjælland
+DK014,3.0,,,,Bornholm
+DK02,2.0,,,Sjælland,
+DK021,3.0,,,,Østsjælland
+DK022,3.0,,,,Vest- og Sydsjælland
+DK03,2.0,,,Syddanmark,
+DK031,3.0,,,,Fyn
+DK032,3.0,,,,Sydjylland
+DK04,2.0,,,Midtjylland,
+DK041,3.0,,,,Vestjylland
+DK042,3.0,,,,Østjylland
+DK05,2.0,,,Nordjylland,
+DK050,3.0,,,,Nordjylland
+DKZ,1.0,,EXTRA-REGIO NUTS 1,,
+DKZZ,2.0,,,Extra-Regio NUTS 2,
+DKZZZ,3.0,,,,Extra-Regio NUTS 3
+DE,0.0,DEUTSCHLAND ,,,
+DE1,1.0,,BADEN-WÜRTTEMBERG,,
+DE11,2.0,,,Stuttgart,
+DE111,3.0,,,,"Stuttgart, Stadtkreis"
+DE112,3.0,,,,Böblingen
+DE113,3.0,,,,Esslingen
+DE114,3.0,,,,Göppingen
+DE115,3.0,,,,Ludwigsburg
+DE116,3.0,,,,Rems-Murr-Kreis
+DE117,3.0,,,,"Heilbronn, Stadtkreis"
+DE118,3.0,,,,"Heilbronn, Landkreis"
+DE119,3.0,,,,Hohenlohekreis
+DE11A,3.0,,,,Schwäbisch Hall
+DE11B,3.0,,,,Main-Tauber-Kreis
+DE11C,3.0,,,,Heidenheim
+DE11D,3.0,,,,Ostalbkreis
+DE12,2.0,,,Karlsruhe,
+DE121,3.0,,,,"Baden-Baden, Stadtkreis"
+DE122,3.0,,,,"Karlsruhe, Stadtkreis"
+DE123,3.0,,,,"Karlsruhe, Landkreis"
+DE124,3.0,,,,Rastatt
+DE125,3.0,,,,"Heidelberg, Stadtkreis"
+DE126,3.0,,,,"Mannheim, Stadtkreis"
+DE127,3.0,,,,Neckar-Odenwald-Kreis
+DE128,3.0,,,,Rhein-Neckar-Kreis
+DE129,3.0,,,,"Pforzheim, Stadtkreis"
+DE12A,3.0,,,,Calw
+DE12B,3.0,,,,Enzkreis
+DE12C,3.0,,,,Freudenstadt
+DE13,2.0,,,Freiburg,
+DE131,3.0,,,,"Freiburg im Breisgau, Stadtkreis"
+DE132,3.0,,,,Breisgau-Hochschwarzwald
+DE133,3.0,,,,Emmendingen
+DE134,3.0,,,,Ortenaukreis
+DE135,3.0,,,,Rottweil
+DE136,3.0,,,,Schwarzwald-Baar-Kreis
+DE137,3.0,,,,Tuttlingen
+DE138,3.0,,,,Konstanz
+DE139,3.0,,,,Lörrach
+DE13A,3.0,,,,Waldshut
+DE14,2.0,,,Tübingen,
+DE141,3.0,,,,Reutlingen
+DE142,3.0,,,,"Tübingen, Landkreis"
+DE143,3.0,,,,Zollernalbkreis
+DE144,3.0,,,,"Ulm, Stadtkreis"
+DE145,3.0,,,,Alb-Donau-Kreis
+DE146,3.0,,,,Biberach
+DE147,3.0,,,,Bodenseekreis
+DE148,3.0,,,,Ravensburg
+DE149,3.0,,,,Sigmaringen
+DE2,1.0,,BAYERN,,
+DE21,2.0,,,Oberbayern,
+DE211,3.0,,,,"Ingolstadt, Kreisfreie Stadt"
+DE212,3.0,,,,"München, Kreisfreie Stadt"
+DE213,3.0,,,,"Rosenheim, Kreisfreie Stadt"
+DE214,3.0,,,,Altötting
+DE215,3.0,,,,Berchtesgadener Land
+DE216,3.0,,,,Bad Tölz-Wolfratshausen
+DE217,3.0,,,,Dachau
+DE218,3.0,,,,Ebersberg
+DE219,3.0,,,,Eichstätt
+DE21A,3.0,,,,Erding
+DE21B,3.0,,,,Freising
+DE21C,3.0,,,,Fürstenfeldbruck
+DE21D,3.0,,,,Garmisch-Partenkirchen
+DE21E,3.0,,,,Landsberg am Lech
+DE21F,3.0,,,,Miesbach
+DE21G,3.0,,,,Mühldorf a. Inn
+DE21H,3.0,,,,"München, Landkreis"
+DE21I,3.0,,,,Neuburg-Schrobenhausen
+DE21J,3.0,,,,Pfaffenhofen a. d. Ilm
+DE21K,3.0,,,,"Rosenheim, Landkreis"
+DE21L,3.0,,,,Starnberg
+DE21M,3.0,,,,Traunstein
+DE21N,3.0,,,,Weilheim-Schongau
+DE22,2.0,,,Niederbayern,
+DE221,3.0,,,,"Landshut, Kreisfreie Stadt"
+DE222,3.0,,,,"Passau, Kreisfreie Stadt"
+DE223,3.0,,,,"Straubing, Kreisfreie Stadt"
+DE224,3.0,,,,Deggendorf
+DE225,3.0,,,,Freyung-Grafenau
+DE226,3.0,,,,Kelheim
+DE227,3.0,,,,"Landshut, Landkreis"
+DE228,3.0,,,,"Passau, Landkreis"
+DE229,3.0,,,,Regen
+DE22A,3.0,,,,Rottal-Inn
+DE22B,3.0,,,,Straubing-Bogen
+DE22C,3.0,,,,Dingolfing-Landau
+DE23,2.0,,,Oberpfalz,
+DE231,3.0,,,,"Amberg, Kreisfreie Stadt"
+DE232,3.0,,,,"Regensburg, Kreisfreie Stadt"
+DE233,3.0,,,,"Weiden i. d. Opf, Kreisfreie Stadt"
+DE234,3.0,,,,Amberg-Sulzbach
+DE235,3.0,,,,Cham
+DE236,3.0,,,,Neumarkt i. d. OPf.
+DE237,3.0,,,,Neustadt a. d. Waldnaab
+DE238,3.0,,,,"Regensburg, Landkreis"
+DE239,3.0,,,,Schwandorf
+DE23A,3.0,,,,Tirschenreuth
+DE24,2.0,,,Oberfranken,
+DE241,3.0,,,,"Bamberg, Kreisfreie Stadt"
+DE242,3.0,,,,"Bayreuth, Kreisfreie Stadt"
+DE243,3.0,,,,"Coburg, Kreisfreie Stadt"
+DE244,3.0,,,,"Hof, Kreisfreie Stadt"
+DE245,3.0,,,,"Bamberg, Landkreis"
+DE246,3.0,,,,"Bayreuth, Landkreis"
+DE247,3.0,,,,"Coburg, Landkreis"
+DE248,3.0,,,,Forchheim
+DE249,3.0,,,,"Hof, Landkreis"
+DE24A,3.0,,,,Kronach
+DE24B,3.0,,,,Kulmbach
+DE24C,3.0,,,,Lichtenfels
+DE24D,3.0,,,,Wunsiedel i. Fichtelgebirge
+DE25,2.0,,,Mittelfranken,
+DE251,3.0,,,,"Ansbach, Kreisfreie Stadt"
+DE252,3.0,,,,"Erlangen, Kreisfreie Stadt"
+DE253,3.0,,,,"Fürth, Kreisfreie Stadt"
+DE254,3.0,,,,"Nürnberg, Kreisfreie Stadt"
+DE255,3.0,,,,"Schwabach, Kreisfreie Stadt"
+DE256,3.0,,,,"Ansbach, Landkreis"
+DE257,3.0,,,,Erlangen-Höchstadt
+DE258,3.0,,,,"Fürth, Landkreis"
+DE259,3.0,,,,Nürnberger Land
+DE25A,3.0,,,,Neustadt a. d. Aisch-Bad Windsheim
+DE25B,3.0,,,,Roth
+DE25C,3.0,,,,Weißenburg-Gunzenhausen
+DE26,2.0,,,Unterfranken,
+DE261,3.0,,,,"Aschaffenburg, Kreisfreie Stadt"
+DE262,3.0,,,,"Schweinfurt, Kreisfreie Stadt"
+DE263,3.0,,,,"Würzburg, Kreisfreie Stadt"
+DE264,3.0,,,,"Aschaffenburg, Landkreis"
+DE265,3.0,,,,Bad Kissingen
+DE266,3.0,,,,Rhön-Grabfeld
+DE267,3.0,,,,Haßberge
+DE268,3.0,,,,Kitzingen
+DE269,3.0,,,,Miltenberg
+DE26A,3.0,,,,Main-Spessart
+DE26B,3.0,,,,"Schweinfurt, Landkreis"
+DE26C,3.0,,,,"Würzburg, Landkreis"
+DE27,2.0,,,Schwaben,
+DE271,3.0,,,,"Augsburg, Kreisfreie Stadt"
+DE272,3.0,,,,"Kaufbeuren, Kreisfreie Stadt"
+DE273,3.0,,,,"Kempten (Allgäu), Kreisfreie Stadt"
+DE274,3.0,,,,"Memmingen, Kreisfreie Stadt"
+DE275,3.0,,,,Aichach-Friedberg
+DE276,3.0,,,,"Augsburg, Landkreis"
+DE277,3.0,,,,Dillingen a.d. Donau
+DE278,3.0,,,,Günzburg
+DE279,3.0,,,,Neu-Ulm
+DE27A,3.0,,,,Lindau (Bodensee)
+DE27B,3.0,,,,Ostallgäu
+DE27C,3.0,,,,Unterallgäu
+DE27D,3.0,,,,Donau-Ries
+DE27E,3.0,,,,Oberallgäu
+DE3,1.0,,BERLIN,,
+DE30,2.0,,,Berlin,
+DE300,3.0,,,,Berlin
+DE4,1.0,,BRANDENBURG,,
+DE40,2.0,,,Brandenburg,
+DE40 (part),2.0,,,Brandenburg - Nordost,
+DE403,3.0,,,,"Frankfurt (Oder), Kreisfreie Stadt"
+DE405,3.0,,,,Barnim
+DE409,3.0,,,,Märkisch-Oderland
+DE40A,3.0,,,,Oberhavel
+DE40C,3.0,,,,Oder-Spree
+DE40D,3.0,,,,Ostprignitz-Ruppin
+DE40F,3.0,,,,Prignitz
+DE40I,3.0,,,,Uckermark
+DE40 (part),2.0,,,Brandenburg - Südwest,
+DE401,3.0,,,,"Brandenburg an der Havel, Kreisfreie Stadt"
+DE402,3.0,,,,"Cottbus, Kreisfreie Stadt"
+DE404,3.0,,,,"Potsdam, Kreisfreie Stadt"
+DE406,3.0,,,,Dahme-Spreewald
+DE407,3.0,,,,Elbe-Elster
+DE408,3.0,,,,Havelland
+DE40B,3.0,,,,Oberspreewald-Lausitz
+DE40E,3.0,,,,Potsdam-Mittelmark
+DE40G,3.0,,,,Spree-Neiße
+DE40H,3.0,,,,Teltow-Fläming
+DE5,1.0,,BREMEN,,
+DE50,2.0,,,Bremen,
+DE501,3.0,,,,"Bremen, Kreisfreie Stadt"
+DE502,3.0,,,,"Bremerhaven, Kreisfreie Stadt"
+DE6,1.0,,HAMBURG,,
+DE60,2.0,,,Hamburg,
+DE600,3.0,,,,Hamburg
+DE7,1.0,,HESSEN,,
+DE71,2.0,,,Darmstadt,
+DE711,3.0,,,,"Darmstadt, Kreisfreie Stadt"
+DE712,3.0,,,,"Frankfurt am Main, Kreisfreie Stadt"
+DE713,3.0,,,,"Offenbach am Main, Kreisfreie Stadt"
+DE714,3.0,,,,"Wiesbaden, Kreisfreie Stadt"
+DE715,3.0,,,,Bergstraße
+DE716,3.0,,,,Darmstadt-Dieburg
+DE717,3.0,,,,Groß-Gerau
+DE718,3.0,,,,Hochtaunuskreis
+DE719,3.0,,,,Main-Kinzig-Kreis
+DE71A,3.0,,,,Main-Taunus-Kreis
+DE71B,3.0,,,,Odenwaldkreis
+DE71C,3.0,,,,"Offenbach, Landkreis"
+DE71D,3.0,,,,Rheingau-Taunus-Kreis
+DE71E,3.0,,,,Wetteraukreis
+DE72,2.0,,,Gießen,
+DE721,3.0,,,,"Gießen, Landkreis"
+DE722,3.0,,,,Lahn-Dill-Kreis
+DE723,3.0,,,,Limburg-Weilburg
+DE724,3.0,,,,Marburg-Biedenkopf
+DE725,3.0,,,,Vogelsbergkreis
+DE73,2.0,,,Kassel,
+DE731,3.0,,,,"Kassel, Kreisfreie Stadt"
+DE732,3.0,,,,Fulda
+DE733,3.0,,,,Hersfeld-Rotenburg
+DE734,3.0,,,,"Kassel, Landkreis"
+DE735,3.0,,,,Schwalm-Eder-Kreis
+DE736,3.0,,,,Waldeck-Frankenberg
+DE737,3.0,,,,Werra-Meißner-Kreis
+DE8,1.0,,MECKLENBURG-VORPOMMERN,,
+DE80,2.0,,,Mecklenburg-Vorpommern,
+DE801,3.0,,,,"Greifswald, Kreisfreie Stadt"
+DE802,3.0,,,,"Neubrandenburg, Kreisfreie Stadt"
+DE803,3.0,,,,"Rostock, Kreisfreie Stadt"
+DE804,3.0,,,,"Schwerin, Kreisfreie Stadt"
+DE805,3.0,,,,"Stralsund, Kreisfreie Stadt"
+DE806,3.0,,,,"Wismar, Kreisfreie Stadt"
+DE807,3.0,,,,Bad Doberan
+DE808,3.0,,,,Demmin
+DE809,3.0,,,,Güstrow
+DE80A,3.0,,,,Ludwigslust
+DE80B,3.0,,,,Mecklenburg-Strelitz
+DE80C,3.0,,,,Müritz
+DE80D,3.0,,,,Nordvorpommern
+DE80E,3.0,,,,Nordwestmecklenburg
+DE80F,3.0,,,,Ostvorpommern
+DE80G,3.0,,,,Parchim
+DE80H,3.0,,,,Rügen
+DE80I,3.0,,,,Uecker-Randow
+DE9,1.0,,NIEDERSACHSEN,,
+DE91,2.0,,,Braunschweig,
+DE911,3.0,,,,"Braunschweig, Kreisfreie Stadt"
+DE912,3.0,,,,"Salzgitter, Kreisfreie Stadt"
+DE913,3.0,,,,"Wolfsburg, Kreisfreie Stadt"
+DE914,3.0,,,,Gifhorn
+DE915,3.0,,,,Göttingen
+DE916,3.0,,,,Goslar
+DE917,3.0,,,,Helmstedt
+DE918,3.0,,,,Northeim
+DE919,3.0,,,,Osterode am Harz
+DE91A,3.0,,,,Peine
+DE91B,3.0,,,,Wolfenbüttel
+DE92,2.0,,,Hannover,
+DE922,3.0,,,,Diepholz
+DE923,3.0,,,,Hameln-Pyrmont
+DE925,3.0,,,,Hildesheim
+DE926,3.0,,,,Holzminden
+DE927,3.0,,,,Nienburg (Weser)
+DE928,3.0,,,,Schaumburg
+DE929,3.0,,,,Region Hannover
+DE93,2.0,,,Lüneburg,
+DE931,3.0,,,,Celle
+DE932,3.0,,,,Cuxhaven
+DE933,3.0,,,,Harburg
+DE934,3.0,,,,Lüchow-Dannenberg
+DE935,3.0,,,,"Lüneburg, Landkreis"
+DE936,3.0,,,,Osterholz
+DE937,3.0,,,,Rotenburg (Wümme)
+DE938,3.0,,,,Soltau-Fallingbostel
+DE939,3.0,,,,Stade
+DE93A,3.0,,,,Uelzen
+DE93B,3.0,,,,Verden
+DE94,2.0,,,Weser-Ems,
+DE941,3.0,,,,"Delmenhorst, Kreisfreie Stadt"
+DE942,3.0,,,,"Emden, Kreisfreie Stadt"
+DE943,3.0,,,,"Oldenburg (Oldenburg), Kreisfreie Stadt"
+DE944,3.0,,,,"Osnabrück, Kreisfreie Stadt"
+DE945,3.0,,,,"Wilhelmshaven, Kreisfreie Stadt"
+DE946,3.0,,,,Ammerland
+DE947,3.0,,,,Aurich
+DE948,3.0,,,,Cloppenburg
+DE949,3.0,,,,Emsland
+DE94A,3.0,,,,Friesland (DE)
+DE94B,3.0,,,,Grafschaft Bentheim
+DE94C,3.0,,,,Leer
+DE94D,3.0,,,,"Oldenburg, Landkreis"
+DE94E,3.0,,,,"Osnabrück, Landkreis"
+DE94F,3.0,,,,Vechta
+DE94G,3.0,,,,Wesermarsch
+DE94H,3.0,,,,Wittmund
+DEA,1.0,,NORDRHEIN-WESTFALEN,,
+DEA1,2.0,,,Düsseldorf,
+DEA11,3.0,,,,"Düsseldorf, Kreisfreie Stadt"
+DEA12,3.0,,,,"Duisburg, Kreisfreie Stadt"
+DEA13,3.0,,,,"Essen, Kreisfreie Stadt"
+DEA14,3.0,,,,"Krefeld, Kreisfreie Stadt"
+DEA15,3.0,,,,"Mönchengladbach, Kreisfreie Stadt"
+DEA16,3.0,,,,"Mülheim an der Ruhr,Kreisfreie Stadt"
+DEA17,3.0,,,,"Oberhausen, Kreisfreie Stadt"
+DEA18,3.0,,,,"Remscheid, Kreisfreie Stadt"
+DEA19,3.0,,,,"Solingen, Kreisfreie Stadt"
+DEA1A,3.0,,,,"Wuppertal, Kreisfreie Stadt"
+DEA1B,3.0,,,,Kleve
+DEA1C,3.0,,,,Mettmann
+DEA1D,3.0,,,,Rhein-Kreis Neuss
+DEA1E,3.0,,,,Viersen
+DEA1F,3.0,,,,Wesel
+DEA2,2.0,,,Köln,
+DEA2D (part),3.0,,,,"Aachen, Kreisfreie Stadt"
+DEA2D (part),3.0,,,,"Aachen, Kreis"
+DEA2D,3.0,,,,Städteregion Aachen
+DEA22,3.0,,,,"Bonn, Kreisfreie Stadt"
+DEA23,3.0,,,,"Köln, Kreisfreie Stadt"
+DEA24,3.0,,,,"Leverkusen, Kreisfreie Stadt"
+DEA26,3.0,,,,Düren
+DEA27,3.0,,,,Rhein-Erft-Kreis
+DEA28,3.0,,,,Euskirchen
+DEA29,3.0,,,,Heinsberg
+DEA2A,3.0,,,,Oberbergischer Kreis
+DEA2B,3.0,,,,Rheinisch-Bergischer Kreis
+DEA2C,3.0,,,,Rhein-Sieg-Kreis
+DEA3,2.0,,,Münster,
+DEA31,3.0,,,,"Bottrop, Kreisfreie Stadt"
+DEA32,3.0,,,,"Gelsenkirchen, Kreisfreie Stadt"
+DEA33,3.0,,,,"Münster, Kreisfreie Stadt"
+DEA34,3.0,,,,Borken
+DEA35,3.0,,,,Coesfeld
+DEA36,3.0,,,,Recklinghausen
+DEA37,3.0,,,,Steinfurt
+DEA38,3.0,,,,Warendorf
+DEA4,2.0,,,Detmold,
+DEA41,3.0,,,,"Bielefeld, Kreisfreie Stadt"
+DEA42,3.0,,,,Gütersloh
+DEA43,3.0,,,,Herford
+DEA44,3.0,,,,Höxter
+DEA45,3.0,,,,Lippe
+DEA46,3.0,,,,Minden-Lübbecke
+DEA47,3.0,,,,Paderborn
+DEA5,2.0,,,Arnsberg,
+DEA51,3.0,,,,"Bochum, Kreisfreie Stadt"
+DEA52,3.0,,,,"Dortmund, Kreisfreie Stadt"
+DEA53,3.0,,,,"Hagen, Kreisfreie Stadt"
+DEA54,3.0,,,,"Hamm, Kreisfreie Stadt"
+DEA55,3.0,,,,"Herne, Kreisfreie Stadt"
+DEA56,3.0,,,,Ennepe-Ruhr-Kreis
+DEA57,3.0,,,,Hochsauerlandkreis
+DEA58,3.0,,,,Märkischer Kreis
+DEA59,3.0,,,,Olpe
+DEA5A,3.0,,,,Siegen-Wittgenstein
+DEA5B,3.0,,,,Soest
+DEA5C,3.0,,,,Unna
+DEB,1.0,,RHEINLAND-PFALZ,,
+DEB1,2.0,,,Koblenz,
+DEB11,3.0,,,,"Koblenz, Kreisfreie Stadt"
+DEB12,3.0,,,,Ahrweiler
+DEB13,3.0,,,,Altenkirchen (Westerwald)
+DEB14,3.0,,,,Bad Kreuznach
+DEB15,3.0,,,,Birkenfeld
+DEB16,3.0,,,,Cochem-Zell
+DEB17,3.0,,,,Mayen-Koblenz
+DEB18,3.0,,,,Neuwied
+DEB19,3.0,,,,Rhein-Hunsrück-Kreis
+DEB1A,3.0,,,,Rhein-Lahn-Kreis
+DEB1B,3.0,,,,Westerwaldkreis
+DEB2,2.0,,,Trier,
+DEB21,3.0,,,,"Trier, Kreisfreie Stadt"
+DEB22,3.0,,,,Bernkastel-Wittlich
+DEB23,3.0,,,,Eifelkreis Bitburg-Prüm
+DEB24,3.0,,,,Vulkaneifel
+DEB25,3.0,,,,Trier-Saarburg
+DEB3,2.0,,,Rheinhessen-Pfalz,
+DEB31,3.0,,,,"Frankenthal (Pfalz), Kreisfreie Stadt"
+DEB32,3.0,,,,"Kaiserslautern, Kreisfreie Stadt"
+DEB33,3.0,,,,"Landau in der Pfalz, Kreisfreie Stadt"
+DEB34,3.0,,,,"Ludwigshafen am Rhein, Kreisfreie Stadt"
+DEB35,3.0,,,,"Mainz, Kreisfreie Stadt"
+DEB36,3.0,,,,"Neustadt an der Weinstraße, Kreisfreie Stadt"
+DEB37,3.0,,,,"Pirmasens, Kreisfreie Stadt"
+DEB38,3.0,,,,"Speyer, Kreisfreie Stadt"
+DEB39,3.0,,,,"Worms, Kreisfreie Stadt"
+DEB3A,3.0,,,,"Zweibrücken, Kreisfreie Stadt"
+DEB3B,3.0,,,,Alzey-Worms
+DEB3C,3.0,,,,Bad Dürkheim
+DEB3D,3.0,,,,Donnersbergkreis
+DEB3E,3.0,,,,Germersheim
+DEB3F,3.0,,,,"Kaiserslautern, Landkreis"
+DEB3G,3.0,,,,Kusel
+DEB3H,3.0,,,,Südliche Weinstraße
+DEB3I,3.0,,,,Rhein-Pfalz-Kreis
+DEB3J,3.0,,,,Mainz-Bingen
+DEB3K,3.0,,,,Südwestpfalz
+DEC,1.0,,SAARLAND,,
+DEC0,2.0,,,Saarland,
+DEC01,3.0,,,,Regionalverband Saarbrücken
+DEC02,3.0,,,,Merzig-Wadern
+DEC03,3.0,,,,Neunkirchen
+DEC04,3.0,,,,Saarlouis
+DEC05,3.0,,,,Saarpfalz-Kreis
+DEC06,3.0,,,,St. Wendel
+DED,1.0,,SACHSEN,,
+,2.0,,,Chemnitz,
+DED4,2.0,,,Chemnitz,
+DED41,3.0,,,,"Chemnitz, Kreisfreie Stadt"
+DED44 (part),3.0,,,,"Plauen, Kreisfreie Stadt"
+DED45 (part),3.0,,,,"Zwickau, Kreisfreie Stadt"
+DED42 (part),3.0,,,,Annaberg
+DED45 (part),3.0,,,,Chemnitzer Land
+DED43 (part),3.0,,,,Freiberg
+DED44 (part),3.0,,,,Vogtlandkreis
+DED42 (part),3.0,,,,Mittlerer Erzgebirgskreis
+DED43 (part),3.0,,,,Mittweida
+DED42 (part),3.0,,,,Stollberg
+DED42 (part),3.0,,,,Aue-Schwarzenberg
+DED45 (part),3.0,,,,Zwickauer Land
+DED42,3.0,,,,Erzgebirgskreis
+DED43,3.0,,,,Mittelsachsen
+DED44,3.0,,,,Vogtlandkreis
+DED45,3.0,,,,Zwickau
+DED2,2.0,,,Dresden,
+DED21,3.0,,,,"Dresden, Kreisfreie Stadt"
+DED2D (part),3.0,,,,"Görlitz, Kreisfreie Stadt"
+DED2C (part),3.0,,,,"Hoyerswerda, Kreisfreie Stadt"
+DED2C (part),3.0,,,,Bautzen
+DED2E (part),3.0,,,,Meißen
+DED2D (part),3.0,,,,Niederschlesischer Oberlausitzkreis
+DED2E (part),3.0,,,,Riesa-Großenhain
+DED2D (part),3.0,,,,Löbau-Zittau
+DED2F (part),3.0,,,,Sächsische Schweiz
+DED2F (part),3.0,,,,Weißeritzkreis
+DED2C (part),3.0,,,,Kamenz
+DED2D,3.0,,,,Görlitz
+DED2C,3.0,,,,Bautzen
+DED2E,3.0,,,,Meißen
+DED2F,3.0,,,,Sächsische Schweiz-Osterzgebirge
+,2.0,,,Leipzig,
+DED5,2.0,,,Leipzig,
+DED51,3.0,,,,"Leipzig, Kreisfreie Stadt"
+DED53 (part),3.0,,,,Delitzsch
+DED43 (part),3.0,,,,Döbeln
+DED52 (part),3.0,,,,Leipziger Land
+DED52 (part),3.0,,,,Muldentalkreis
+DED53 (part),3.0,,,,Torgau-Oschatz
+DED52,3.0,,,,Leipzig
+DED53,3.0,,,,Nordsachsen
+DEE,1.0,,SACHSEN-ANHALT,,
+DEE0,2.0,,,Sachsen-Anhalt,
+DEE01,3.0,,,,"Dessau-Roßlau, Kreisfreie Stadt"
+DEE02,3.0,,,,"Halle (Saale), Kreisfreie Stadt"
+DEE03,3.0,,,,"Magdeburg, Kreisfreie Stadt"
+DEE04,3.0,,,,Altmarkkreis Salzwedel
+DEE05,3.0,,,,Anhalt-Bitterfeld
+DEE06,3.0,,,,Jerichower Land
+DEE07,3.0,,,,Börde
+DEE08,3.0,,,,Burgenland (DE)
+DEE09,3.0,,,,Harz
+DEE0A,3.0,,,,Mansfeld-Südharz
+DEE0B,3.0,,,,Saalekreis
+DEE0C,3.0,,,,Salzlandkreis
+DEE0D,3.0,,,,Stendal
+DEE0E,3.0,,,,Wittenberg
+DEF,1.0,,SCHLESWIG-HOLSTEIN,,
+DEF0,2.0,,,Schleswig-Holstein,
+DEF01,3.0,,,,"Flensburg, Kreisfreie Stadt"
+DEF02,3.0,,,,"Kiel, Kreisfreie Stadt"
+DEF03,3.0,,,,"Lübeck, Kreisfreie Stadt"
+DEF04,3.0,,,,"Neumünster, Kreisfreie Stadt"
+DEF05,3.0,,,,Dithmarschen
+DEF06,3.0,,,,Herzogtum Lauenburg
+DEF07,3.0,,,,Nordfriesland
+DEF08,3.0,,,,Ostholstein
+DEF09,3.0,,,,Pinneberg
+DEF0A,3.0,,,,Plön
+DEF0B,3.0,,,,Rendsburg-Eckernförde
+DEF0C,3.0,,,,Schleswig-Flensburg
+DEF0D,3.0,,,,Segeberg
+DEF0E,3.0,,,,Steinburg
+DEF0F,3.0,,,,Stormarn
+DEG,1.0,,THÜRINGEN,,
+DEG0,2.0,,,Thüringen,
+DEG01,3.0,,,,"Erfurt, Kreisfreie Stadt"
+DEG02,3.0,,,,"Gera, Kreisfreie Stadt"
+DEG03,3.0,,,,"Jena, Kreisfreie Stadt"
+DEG04,3.0,,,,"Suhl, Kreisfreie Stadt"
+DEG05,3.0,,,,"Weimar, Kreisfreie Stadt"
+DEG06,3.0,,,,Eichsfeld
+DEG07,3.0,,,,Nordhausen
+DEG09,3.0,,,,Unstrut-Hainich-Kreis
+DEG0A,3.0,,,,Kyffhäuserkreis
+DEG0B,3.0,,,,Schmalkalden-Meiningen
+DEG0C,3.0,,,,Gotha
+DEG0D,3.0,,,,Sömmerda
+DEG0E,3.0,,,,Hildburghausen
+DEG0F,3.0,,,,Ilm-Kreis
+DEG0G,3.0,,,,Weimarer Land
+DEG0H,3.0,,,,Sonneberg
+DEG0I,3.0,,,,Saalfeld-Rudolstadt
+DEG0J,3.0,,,,Saale-Holzland-Kreis
+DEG0K,3.0,,,,Saale-Orla-Kreis
+DEG0L,3.0,,,,Greiz
+DEG0M,3.0,,,,Altenburger Land
+DEG0N,3.0,,,,"Eisenach, Kreisfreie Stadt"
+DEG0P,3.0,,,,Wartburgkreis
+DEZ,1.0,,EXTRA-REGIO NUTS 1,,
+DEZZ,2.0,,,Extra-Regio NUTS 2,
+DEZZZ,3.0,,,,Extra-Regio NUTS 3
+EE,0.0,EESTI,,,
+EE0,1.0,,EESTI,,
+EE00,2.0,,,Eesti,
+EE001,3.0,,,,Põhja-Eesti
+EE004,3.0,,,,Lääne-Eesti
+EE006,3.0,,,,Kesk-Eesti
+EE007,3.0,,,,Kirde-Eesti
+EE008,3.0,,,,Lõuna-Eesti
+EEZ,1.0,,EXTRA-REGIO NUTS 1,,
+EEZZ,2.0,,,Extra-Regio NUTS 2,
+EEZZZ,3.0,,,,Extra-Regio NUTS 3
+IE,0.0,ÉIRE / IRELAND,,,
+IE0,1.0,,IRELAND,,
+IE01,2.0,,,"Border, Midland and Western",
+IE011,3.0,,,,Border
+IE012,3.0,,,,Midland
+IE013,3.0,,,,West
+IE02,2.0,,,Southern and Eastern,
+IE021,3.0,,,,Dublin
+IE022,3.0,,,,Mid-East
+IE023,3.0,,,,Mid-West
+IE024,3.0,,,,South-East (IE)
+IE025,3.0,,,,South-West (IE)
+IEZ,1.0,,EXTRA-REGIO NUTS 1,,
+IEZZ,2.0,,,Extra-Regio NUTS 2,
+IEZZZ,3.0,,,,Extra-Regio NUTS 3
+EL,0.0,ΕΛΛΑΔΑ,,,
+EL1,1.0,,ΒΟΡΕΙΑ ΕΛΛΑΔΑ,,
+EL11,2.0,,,"Aνατολική Μακεδονία, Θράκη",
+EL111,3.0,,,,Έβρος
+EL112,3.0,,,,Ξάνθη
+EL113,3.0,,,,Ροδόπη
+EL114,3.0,,,,Δράμα
+EL115,3.0,,,,Καβάλα
+EL12,2.0,,,Κεντρική Μακεδονία,
+EL121,3.0,,,,Ημαθία
+EL122,3.0,,,,Θεσσαλονίκη
+EL123,3.0,,,,Κιλκίς
+EL124,3.0,,,,Πέλλα
+EL125,3.0,,,,Πιερία
+EL126,3.0,,,,Σέρρες
+EL127,3.0,,,,Χαλκιδική
+EL13,2.0,,,Δυτική Μακεδονία,
+EL131,3.0,,,,Γρεβενά
+EL132,3.0,,,,Καστοριά
+EL133,3.0,,,,Κοζάνη
+EL134,3.0,,,,Φλώρινα
+EL14,2.0,,,Θεσσαλία,
+EL141,3.0,,,,Καρδίτσα
+EL142,3.0,,,,Λάρισα
+EL143,3.0,,,,Μαγνησία
+EL144,3.0,,,,Τρίκαλα
+EL2,1.0,,ΚΕΝΤΡΙΚΗ ΕΛΛΑΔΑ,,
+EL21,2.0,,,Ήπειρος,
+EL211,3.0,,,,Άρτα
+EL212,3.0,,,,Θεσπρωτία
+EL213,3.0,,,,Ιωάννινα
+EL214,3.0,,,,Πρέβεζα
+EL22,2.0,,,Ιόνια Νησιά,
+EL221,3.0,,,,Ζάκυνθος
+EL222,3.0,,,,Κέρκυρα
+EL223,3.0,,,,Κεφαλληνία
+EL224,3.0,,,,Λευκάδα
+EL23,2.0,,,Δυτική Ελλάδα,
+EL231,3.0,,,,Αιτωλοακαρνανία
+EL232,3.0,,,,Αχαΐα
+EL233,3.0,,,,Ηλεία
+EL24,2.0,,,Στερεά Ελλάδα,
+EL241,3.0,,,,Βοιωτία
+EL242,3.0,,,,Εύβοια
+EL243,3.0,,,,Ευρυτανία
+EL244,3.0,,,,Φθιώτιδα
+EL245,3.0,,,,Φωκίδα
+EL25,2.0,,,Πελοπόννησος,
+EL251,3.0,,,,Αργολίδα
+EL252,3.0,,,,Αρκαδία
+EL253,3.0,,,,Κορινθία
+EL254,3.0,,,,Λακωνία
+EL255,3.0,,,,Μεσσηνία
+EL3,1.0,,ATTIKΗ,,
+EL30,2.0,,,Aττική,
+EL300,3.0,,,,Aττική
+EL4,1.0,,"NΗΣΙΑ ΑΙΓΑΙΟΥ, KΡΗΤΗ",,
+EL41,2.0,,,Βόρειο Αιγαίο,
+EL411,3.0,,,,Λέσβος
+EL412,3.0,,,,Σάμος
+EL413,3.0,,,,Χίος
+EL42,2.0,,,Νότιο Αιγαίο,
+EL421,3.0,,,,Δωδεκάνησος
+EL422,3.0,,,,Κυκλάδες
+EL43,2.0,,,Κρήτη,
+EL431,3.0,,,,Ηράκλειο
+EL432,3.0,,,,Λασίθι
+EL433,3.0,,,,Ρεθύμνη
+EL434,3.0,,,,Χανιά
+ELZ,1.0,,EXTRA-REGIO NUTS 1,,
+ELZZ,2.0,,,Extra-Regio NUTS 2,
+ELZZZ,3.0,,,,Extra-Regio NUTS 3
+ES,0.0,ESPAÑA ,,,
+ES1,1.0,,NOROESTE,,
+ES11,2.0,,,Galicia,
+ES111,3.0,,,,A Coruña
+ES112,3.0,,,,Lugo
+ES113,3.0,,,,Ourense
+ES114,3.0,,,,Pontevedra
+ES12,2.0,,,Principado de Asturias,
+ES120,3.0,,,,Asturias
+ES13,2.0,,,Cantabria,
+ES130,3.0,,,,Cantabria
+ES2,1.0,,NORESTE,,
+ES21,2.0,,,País Vasco,
+ES211,3.0,,,,Álava
+ES212,3.0,,,,Guipúzcoa
+ES213,3.0,,,,Vizcaya
+ES22,2.0,,,Comunidad Foral de Navarra,
+ES220,3.0,,,,Navarra
+ES23,2.0,,,La Rioja,
+ES230,3.0,,,,La Rioja
+ES24,2.0,,,Aragón,
+ES241,3.0,,,,Huesca
+ES242,3.0,,,,Teruel
+ES243,3.0,,,,Zaragoza
+ES3,1.0,,COMUNIDAD DE MADRID,,
+ES30,2.0,,,Comunidad de Madrid,
+ES300,3.0,,,,Madrid
+ES4,1.0,,CENTRO (ES),,
+ES41,2.0,,,Castilla y León,
+ES411,3.0,,,,Ávila
+ES412,3.0,,,,Burgos
+ES413,3.0,,,,León
+ES414,3.0,,,,Palencia
+ES415,3.0,,,,Salamanca
+ES416,3.0,,,,Segovia
+ES417,3.0,,,,Soria
+ES418,3.0,,,,Valladolid
+ES419,3.0,,,,Zamora
+ES42,2.0,,,Castilla-La Mancha,
+ES421,3.0,,,,Albacete
+ES422,3.0,,,,Ciudad Real
+ES423,3.0,,,,Cuenca
+ES424,3.0,,,,Guadalajara
+ES425,3.0,,,,Toledo
+ES43,2.0,,,Extremadura,
+ES431,3.0,,,,Badajoz
+ES432,3.0,,,,Cáceres
+ES5,1.0,,ESTE,,
+ES51,2.0,,,Cataluña,
+ES511,3.0,,,,Barcelona
+ES512,3.0,,,,Girona
+ES513,3.0,,,,Lleida
+ES514,3.0,,,,Tarragona
+ES52,2.0,,,Comunidad Valenciana,
+ES521,3.0,,,,Alicante / Alacant
+ES522,3.0,,,,Castellón / Castelló
+ES523,3.0,,,,Valencia / València
+ES53,2.0,,,Illes Balears,
+ES531,3.0,,,,Eivissa y Formentera
+ES532,3.0,,,,Mallorca
+ES533,3.0,,,,Menorca
+ES6,1.0,,SUR,,
+ES61,2.0,,,Andalucía,
+ES611,3.0,,,,Almería
+ES612,3.0,,,,Cádiz
+ES613,3.0,,,,Córdoba
+ES614,3.0,,,,Granada
+ES615,3.0,,,,Huelva
+ES616,3.0,,,,Jaén
+ES617,3.0,,,,Málaga
+ES618,3.0,,,,Sevilla
+ES62,2.0,,,Región de Murcia,
+ES620,3.0,,,,Murcia
+ES63,2.0,,,Ciudad Autónoma de Ceuta,
+ES630,3.0,,,,Ceuta
+ES64,2.0,,,Ciudad Autónoma de Melilla,
+ES640,3.0,,,,Melilla
+ES7,1.0,,CANARIAS,,
+ES70,2.0,,,Canarias,
+ES703,3.0,,,,El Hierro
+ES704,3.0,,,,Fuerteventura
+ES705,3.0,,,,Gran Canaria
+ES706,3.0,,,,La Gomera
+ES707,3.0,,,,La Palma
+ES708,3.0,,,,Lanzarote
+ES709,3.0,,,,Tenerife
+ESZ,1.0,,EXTRA-REGIO NUTS 1,,
+ESZZ,2.0,,,Extra-Regio NUTS 2,
+ESZZZ,3.0,,,,Extra-Regio NUTS 3
+FR,0.0,FRANCE,,,
+FR1,1.0,,ÎLE DE FRANCE,,
+FR10,2.0,,,Île de France,
+FR101,3.0,,,,Paris
+FR102,3.0,,,,Seine-et-Marne
+FR103,3.0,,,,Yvelines
+FR104,3.0,,,,Essonne
+FR105,3.0,,,,Hauts-de-Seine
+FR106,3.0,,,,Seine-Saint-Denis
+FR107,3.0,,,,Val-de-Marne
+FR108,3.0,,,,Val-d'Oise
+FR2,1.0,,BASSIN PARISIEN,,
+FR21,2.0,,,Champagne-Ardenne,
+FR211,3.0,,,,Ardennes
+FR212,3.0,,,,Aube
+FR213,3.0,,,,Marne
+FR214,3.0,,,,Haute-Marne
+FR22,2.0,,,Picardie,
+FR221,3.0,,,,Aisne
+FR222,3.0,,,,Oise
+FR223,3.0,,,,Somme
+FR23,2.0,,,Haute-Normandie,
+FR231,3.0,,,,Eure
+FR232,3.0,,,,Seine-Maritime
+FR24,2.0,,,Centre,
+FR241,3.0,,,,Cher
+FR242,3.0,,,,Eure-et-Loir
+FR243,3.0,,,,Indre
+FR244,3.0,,,,Indre-et-Loire
+FR245,3.0,,,,Loir-et-Cher
+FR246,3.0,,,,Loiret
+FR25,2.0,,,Basse-Normandie,
+FR251,3.0,,,,Calvados
+FR252,3.0,,,,Manche
+FR253,3.0,,,,Orne
+FR26,2.0,,,Bourgogne,
+FR261,3.0,,,,Côte-d'Or
+FR262,3.0,,,,Nièvre
+FR263,3.0,,,,Saône-et-Loire
+FR264,3.0,,,,Yonne
+FR3,1.0,,NORD - PAS-DE-CALAIS,,
+FR30,2.0,,,Nord - Pas-de-Calais,
+FR301,3.0,,,,Nord
+FR302,3.0,,,,Pas-de-Calais
+FR4,1.0,,EST,,
+FR41,2.0,,,Lorraine,
+FR411,3.0,,,,Meurthe-et-Moselle
+FR412,3.0,,,,Meuse
+FR413,3.0,,,,Moselle
+FR414,3.0,,,,Vosges
+FR42,2.0,,,Alsace,
+FR421,3.0,,,,Bas-Rhin
+FR422,3.0,,,,Haut-Rhin
+FR43,2.0,,,Franche-Comté,
+FR431,3.0,,,,Doubs
+FR432,3.0,,,,Jura
+FR433,3.0,,,,Haute-Saône
+FR434,3.0,,,,Territoire de Belfort
+FR5,1.0,,OUEST,,
+FR51,2.0,,,Pays de la Loire,
+FR511,3.0,,,,Loire-Atlantique
+FR512,3.0,,,,Maine-et-Loire
+FR513,3.0,,,,Mayenne
+FR514,3.0,,,,Sarthe
+FR515,3.0,,,,Vendée
+FR52,2.0,,,Bretagne,
+FR521,3.0,,,,Côtes-d'Armor
+FR522,3.0,,,,Finistère
+FR523,3.0,,,,Ille-et-Vilaine
+FR524,3.0,,,,Morbihan
+FR53,2.0,,,Poitou-Charentes,
+FR531,3.0,,,,Charente
+FR532,3.0,,,,Charente-Maritime
+FR533,3.0,,,,Deux-Sèvres
+FR534,3.0,,,,Vienne
+FR6,1.0,,SUD-OUEST,,
+FR61,2.0,,,Aquitaine,
+FR611,3.0,,,,Dordogne
+FR612,3.0,,,,Gironde
+FR613,3.0,,,,Landes
+FR614,3.0,,,,Lot-et-Garonne
+FR615,3.0,,,,Pyrénées-Atlantiques
+FR62,2.0,,,Midi-Pyrénées,
+FR621,3.0,,,,Ariège
+FR622,3.0,,,,Aveyron
+FR623,3.0,,,,Haute-Garonne
+FR624,3.0,,,,Gers
+FR625,3.0,,,,Lot
+FR626,3.0,,,,Hautes-Pyrénées
+FR627,3.0,,,,Tarn
+FR628,3.0,,,,Tarn-et-Garonne
+FR63,2.0,,,Limousin,
+FR631,3.0,,,,Corrèze
+FR632,3.0,,,,Creuse
+FR633,3.0,,,,Haute-Vienne
+FR7,1.0,,CENTRE-EST,,
+FR71,2.0,,,Rhône-Alpes,
+FR711,3.0,,,,Ain
+FR712,3.0,,,,Ardèche
+FR713,3.0,,,,Drôme
+FR714,3.0,,,,Isère
+FR715,3.0,,,,Loire
+FR716,3.0,,,,Rhône
+FR717,3.0,,,,Savoie
+FR718,3.0,,,,Haute-Savoie
+FR72,2.0,,,Auvergne,
+FR721,3.0,,,,Allier
+FR722,3.0,,,,Cantal
+FR723,3.0,,,,Haute-Loire
+FR724,3.0,,,,Puy-de-Dôme
+FR8,1.0,,MÉDITERRANÉE,,
+FR81,2.0,,,Languedoc-Roussillon,
+FR811,3.0,,,,Aude
+FR812,3.0,,,,Gard
+FR813,3.0,,,,Hérault
+FR814,3.0,,,,Lozère
+FR815,3.0,,,,Pyrénées-Orientales
+FR82,2.0,,,Provence-Alpes-Côte d'Azur,
+FR821,3.0,,,,Alpes-de-Haute-Provence
+FR822,3.0,,,,Hautes-Alpes
+FR823,3.0,,,,Alpes-Maritimes
+FR824,3.0,,,,Bouches-du-Rhône
+FR825,3.0,,,,Var
+FR826,3.0,,,,Vaucluse
+FR83,2.0,,,Corse,
+FR831,3.0,,,,Corse-du-Sud
+FR832,3.0,,,,Haute-Corse
+FR9,1.0,,DÉPARTEMENTS D'OUTRE-MER,,
+FR91,2.0,,,Guadeloupe,
+FR910,3.0,,,,Guadeloupe
+FR92,2.0,,,Martinique,
+FR920,3.0,,,,Martinique
+FR93,2.0,,,Guyane,
+FR930,3.0,,,,Guyane
+FR94,2.0,,,Réunion,
+FR940,3.0,,,,Réunion
+FRZ,1.0,,EXTRA-REGIO NUTS 1,,
+FRZZ,2.0,,,Extra-Regio NUTS 2,
+FRZZZ,3.0,,,,Extra-Regio NUTS 3
+IT,0.0,ITALIA ,,,
+ITC,1.0,,NORD-OVEST,,
+ITC1,2.0,,,Piemonte,
+ITC11,3.0,,,,Torino
+ITC12,3.0,,,,Vercelli
+ITC13,3.0,,,,Biella
+ITC14,3.0,,,,Verbano-Cusio-Ossola
+ITC15,3.0,,,,Novara
+ITC16,3.0,,,,Cuneo
+ITC17,3.0,,,,Asti
+ITC18,3.0,,,,Alessandria
+ITC2,2.0,,,Valle d'Aosta/Vallée d'Aoste,
+ITC20,3.0,,,,Valle d'Aosta/Vallée d'Aoste
+ITC3,2.0,,,Liguria,
+ITC31,3.0,,,,Imperia
+ITC32,3.0,,,,Savona
+ITC33,3.0,,,,Genova
+ITC34,3.0,,,,La Spezia
+ITC4,2.0,,,Lombardia,
+ITC41,3.0,,,,Varese
+ITC42,3.0,,,,Como
+ITC43,3.0,,,,Lecco
+ITC44,3.0,,,,Sondrio
+,3.0,,,,Milano
+ITC4C,3.0,,,,Milano
+ITC4D,3.0,,,,Monza e della Brianza
+ITC46,3.0,,,,Bergamo
+ITC47,3.0,,,,Brescia
+ITC48,3.0,,,,Pavia
+ITC49,3.0,,,,Lodi
+ITC4A,3.0,,,,Cremona
+ITC4B,3.0,,,,Mantova
+,1.0,,NORD-EST,,
+ITH,1.0,,NORD-EST,,
+ITH1,2.0,,,Provincia Autonoma di Bolzano/Bozen,
+ITH10,3.0,,,,Bolzano-Bozen
+ITH2,2.0,,,Provincia Autonoma di Trento,
+ITH20,3.0,,,,Trento
+ITH3,2.0,,,Veneto,
+ITH31,3.0,,,,Verona
+ITH32,3.0,,,,Vicenza
+ITH33,3.0,,,,Belluno
+ITH34,3.0,,,,Treviso
+ITH35,3.0,,,,Venezia
+ITH36,3.0,,,,Padova
+ITH37,3.0,,,,Rovigo
+ITH4,2.0,,,Friuli-Venezia Giulia,
+ITH41,3.0,,,,Pordenone
+ITH42,3.0,,,,Udine
+ITH43,3.0,,,,Gorizia
+ITH44,3.0,,,,Trieste
+,2.0,,,Emilia-Romagna,
+ITH5,2.0,,,Emilia-Romagna,
+ITH51,3.0,,,,Piacenza
+ITH52,3.0,,,,Parma
+ITH53,3.0,,,,Reggio nell'Emilia
+ITH54,3.0,,,,Modena
+ITH55,3.0,,,,Bologna
+ITH56,3.0,,,,Ferrara
+ITH57,3.0,,,,Ravenna
+ITH58,3.0,,,,Forlì-Cesena
+,3.0,,,,Rimini
+ITH59,3.0,,,,Rimini
+,1.0,,CENTRO (I),,
+ITI,1.0,,CENTRO (IT),,
+ITI1,2.0,,,Toscana,
+ITI11,3.0,,,,Massa-Carrara
+ITI12,3.0,,,,Lucca
+ITI13,3.0,,,,Pistoia
+ITI14,3.0,,,,Firenze
+ITI15,3.0,,,,Prato
+ITI16,3.0,,,,Livorno
+ITI17,3.0,,,,Pisa
+ITI18,3.0,,,,Arezzo
+ITI19,3.0,,,,Siena
+ITI1A,3.0,,,,Grosseto
+ITI2,2.0,,,Umbria,
+ITI21,3.0,,,,Perugia
+ITI22,3.0,,,,Terni
+,2.0,,,Marche,
+ITI3,2.0,,,Marche,
+,3.0,,,,Pesaro e Urbino
+ITI31,3.0,,,,Pesaro e Urbino
+ITI32,3.0,,,,Ancona
+ITI33,3.0,,,,Macerata
+,3.0,,,,Ascoli Piceno
+ITI34,3.0,,,,Ascoli Piceno
+ITI35,3.0,,,,Fermo
+ITI4,2.0,,,Lazio,
+ITI41,3.0,,,,Viterbo
+ITI42,3.0,,,,Rieti
+ITI43,3.0,,,,Roma
+ITI44,3.0,,,,Latina
+ITI45,3.0,,,,Frosinone
+ITF,1.0,,SUD,,
+ITF1,2.0,,,Abruzzo,
+ITF11,3.0,,,,L'Aquila
+ITF12,3.0,,,,Teramo
+ITF13,3.0,,,,Pescara
+ITF14,3.0,,,,Chieti
+ITF2,2.0,,,Molise,
+ITF21,3.0,,,,Isernia
+ITF22,3.0,,,,Campobasso
+ITF3,2.0,,,Campania,
+ITF31,3.0,,,,Caserta
+ITF32,3.0,,,,Benevento
+ITF33,3.0,,,,Napoli
+ITF34,3.0,,,,Avellino
+ITF35,3.0,,,,Salerno
+ITF4,2.0,,,Puglia,
+,3.0,,,,Foggia
+,3.0,,,,Bari
+ITF46,3.0,,,,Foggia
+ITF47,3.0,,,,Bari
+ITF48,3.0,,,,Barletta-Andria-Trani
+ITF43,3.0,,,,Taranto
+ITF44,3.0,,,,Brindisi
+ITF45,3.0,,,,Lecce
+ITF5,2.0,,,Basilicata,
+ITF51,3.0,,,,Potenza
+ITF52,3.0,,,,Matera
+ITF6,2.0,,,Calabria,
+ITF61,3.0,,,,Cosenza
+ITF62,3.0,,,,Crotone
+ITF63,3.0,,,,Catanzaro
+ITF64,3.0,,,,Vibo Valentia
+ITF65,3.0,,,,Reggio di Calabria
+ITG,1.0,,ISOLE,,
+ITG1,2.0,,,Sicilia,
+ITG11,3.0,,,,Trapani
+ITG12,3.0,,,,Palermo
+ITG13,3.0,,,,Messina
+ITG14,3.0,,,,Agrigento
+ITG15,3.0,,,,Caltanissetta
+ITG16,3.0,,,,Enna
+ITG17,3.0,,,,Catania
+ITG18,3.0,,,,Ragusa
+ITG19,3.0,,,,Siracusa
+ITG2,2.0,,,Sardegna,
+ITG25,3.0,,,,Sassari
+ITG26,3.0,,,,Nuoro
+ITG27,3.0,,,,Cagliari
+ITG28,3.0,,,,Oristano
+ITG29,3.0,,,,Olbia-Tempio
+ITG2A,3.0,,,,Ogliastra
+ITG2B,3.0,,,,Medio Campidano
+ITG2C,3.0,,,,Carbonia-Iglesias
+ITZ,1.0,,EXTRA-REGIO NUTS 1,,
+ITZZ,2.0,,,Extra-Regio NUTS 2,
+ITZZZ,3.0,,,,Extra-Regio NUTS 3
+CY,0.0,ΚΥΠΡΟΣ,,,
+CY0,1.0,,ΚΥΠΡΟΣ,,
+CY00,2.0,,,Κύπρος,
+CY000,3.0,,,,Κύπρος
+CYZ,1.0,,EXTRA-REGIO NUTS 1,,
+CYZZ,2.0,,,Extra-Regio NUTS 2,
+CYZZZ,3.0,,,,Extra-Regio NUTS 3
+LV,0.0,LATVIJA,,,
+LV0,1.0,,LATVIJA,,
+LV00,2.0,,,Latvija,
+LV003,3.0,,,,Kurzeme
+LV005,3.0,,,,Latgale
+LV006,3.0,,,,Rīga
+LV007,3.0,,,,Pierīga
+LV008,3.0,,,,Vidzeme
+LV009,3.0,,,,Zemgale
+LVZ,1.0,,EXTRA-REGIO NUTS 1,,
+LVZZ,2.0,,,Extra-Regio NUTS 2,
+LVZZZ,3.0,,,,Extra-Regio NUTS 3
+LT,0.0,LIETUVA,,,
+LT0,1.0,,LIETUVA,,
+LT00,2.0,,,Lietuva,
+LT001,3.0,,,,Alytaus apskritis
+LT002,3.0,,,,Kauno apskritis
+LT003,3.0,,,,Klaipėdos apskritis
+LT004,3.0,,,,Marijampolės apskritis
+LT005,3.0,,,,Panevėžio apskritis
+LT006,3.0,,,,Šiaulių apskritis
+LT007,3.0,,,,Tauragės apskritis
+LT008,3.0,,,,Telšių apskritis
+LT009,3.0,,,,Utenos apskritis
+LT00A,3.0,,,,Vilniaus apskritis
+LTZ,1.0,,EXTRA-REGIO NUTS 1,,
+LTZZ,2.0,,,Extra-Regio NUTS 2,
+LTZZZ,3.0,,,,Extra-Regio NUTS 3
+LU,0.0,LUXEMBOURG,,,
+LU0,1.0,,LUXEMBOURG,,
+LU00,2.0,,,Luxembourg,
+LU000,3.0,,,,Luxembourg
+LUZ,1.0,,EXTRA-REGIO NUTS 1,,
+LUZZ,2.0,,,Extra-Regio NUTS 2,
+LUZZZ,3.0,,,,Extra-Regio NUTS 3
+HU,0.0,MAGYARORSZÁG,,,
+HU1,1.0,,KÖZÉP-MAGYARORSZÁG,,
+HU10,2.0,,,Közép-Magyarország,
+HU101,3.0,,,,Budapest
+HU102,3.0,,,,Pest
+HU2,1.0,,DUNÁNTÚL,,
+HU21,2.0,,,Közép-Dunántúl,
+HU211,3.0,,,,Fejér
+HU212,3.0,,,,Komárom-Esztergom
+HU213,3.0,,,,Veszprém
+HU22,2.0,,,Nyugat-Dunántúl,
+HU221,3.0,,,,Győr-Moson-Sopron
+HU222,3.0,,,,Vas
+HU223,3.0,,,,Zala
+HU23,2.0,,,Dél-Dunántúl,
+HU231,3.0,,,,Baranya
+HU232,3.0,,,,Somogy
+HU233,3.0,,,,Tolna
+HU3,1.0,,ALFÖLD ÉS ÉSZAK,,
+HU31,2.0,,,Észak-Magyarország,
+HU311,3.0,,,,Borsod-Abaúj-Zemplén
+HU312,3.0,,,,Heves
+HU313,3.0,,,,Nógrád
+HU32,2.0,,,Észak-Alföld,
+HU321,3.0,,,,Hajdú-Bihar
+HU322,3.0,,,,Jász-Nagykun-Szolnok
+HU323,3.0,,,,Szabolcs-Szatmár-Bereg
+HU33,2.0,,,Dél-Alföld,
+HU331,3.0,,,,Bács-Kiskun
+HU332,3.0,,,,Békés
+HU333,3.0,,,,Csongrád
+HUZ,1.0,,EXTRA-REGIO NUTS 1,,
+HUZZ,2.0,,,Extra-Regio NUTS 2,
+HUZZZ,3.0,,,,Extra-Regio NUTS 3
+MT,0.0,MALTA,,,
+MT0,1.0,,MALTA,,
+MT00,2.0,,,Malta,
+MT001,3.0,,,,Malta
+MT002,3.0,,,,Gozo and Comino / Għawdex u Kemmuna
+MTZ,1.0,,EXTRA-REGIO NUTS 1,,
+MTZZ,2.0,,,Extra-Regio NUTS 2,
+MTZZZ,3.0,,,,Extra-Regio NUTS 3
+NL,0.0,NEDERLAND ,,,
+NL1,1.0,,NOORD-NEDERLAND,,
+NL11,2.0,,,Groningen,
+NL111,3.0,,,,Oost-Groningen
+NL112,3.0,,,,Delfzijl en omgeving
+NL113,3.0,,,,Overig Groningen
+NL12,2.0,,,Friesland (NL),
+NL121,3.0,,,,Noord-Friesland
+NL122,3.0,,,,Zuidwest-Friesland
+NL123,3.0,,,,Zuidoost-Friesland
+NL13,2.0,,,Drenthe,
+NL131,3.0,,,,Noord-Drenthe
+NL132,3.0,,,,Zuidoost-Drenthe
+NL133,3.0,,,,Zuidwest-Drenthe
+NL2,1.0,,OOST-NEDERLAND,,
+NL21,2.0,,,Overijssel,
+NL211,3.0,,,,Noord-Overijssel
+NL212,3.0,,,,Zuidwest-Overijssel
+NL213,3.0,,,,Twente
+NL22,2.0,,,Gelderland,
+NL221,3.0,,,,Veluwe
+NL224,3.0,,,,Zuidwest-Gelderland
+NL225,3.0,,,,Achterhoek
+NL226,3.0,,,,Arnhem/Nijmegen
+NL23,2.0,,,Flevoland,
+NL230,3.0,,,,Flevoland
+NL3,1.0,,WEST-NEDERLAND,,
+NL31,2.0,,,Utrecht,
+NL310,3.0,,,,Utrecht
+NL32,2.0,,,Noord-Holland,
+NL321,3.0,,,,Kop van Noord-Holland
+NL322,3.0,,,,Alkmaar en omgeving
+NL323,3.0,,,,IJmond
+NL324,3.0,,,,Agglomeratie Haarlem
+NL325,3.0,,,,Zaanstreek
+NL326,3.0,,,,Groot-Amsterdam
+NL327,3.0,,,,Het Gooi en Vechtstreek
+NL33,2.0,,,Zuid-Holland,
+,3.0,,,,Agglomeratie Leiden en Bollenstreek
+NL337,3.0,,,,Agglomeratie Leiden en Bollenstreek
+NL332,3.0,,,,Agglomeratie 's-Gravenhage
+NL333,3.0,,,,Delft en Westland
+,3.0,,,,Oost-Zuid-Holland
+NL338,3.0,,,,Oost-Zuid-Holland
+,3.0,,,,Groot-Rijnmond
+NL339,3.0,,,,Groot-Rijnmond
+,3.0,,,,Zuidoost-Zuid-Holland
+NL33A,3.0,,,,Zuidoost-Zuid-Holland
+NL34,2.0,,,Zeeland,
+NL341,3.0,,,,Zeeuwsch-Vlaanderen
+NL342,3.0,,,,Overig Zeeland
+NL4,1.0,,ZUID-NEDERLAND,,
+NL41,2.0,,,Noord-Brabant,
+NL411,3.0,,,,West-Noord-Brabant
+NL412,3.0,,,,Midden-Noord-Brabant
+NL413,3.0,,,,Noordoost-Noord-Brabant
+NL414,3.0,,,,Zuidoost-Noord-Brabant
+NL42,2.0,,,Limburg (NL),
+NL421,3.0,,,,Noord-Limburg
+NL422,3.0,,,,Midden-Limburg
+NL423,3.0,,,,Zuid-Limburg
+NLZ,1.0,,EXTRA-REGIO NUTS 1,,
+NLZZ,2.0,,,Extra-Regio NUTS 2,
+NLZZZ,3.0,,,,Extra-Regio NUTS 3
+AT,0.0,ÖSTERREICH,,,
+AT1,1.0,,OSTÖSTERREICH,,
+AT11,2.0,,,Burgenland (AT),
+AT111,3.0,,,,Mittelburgenland
+AT112,3.0,,,,Nordburgenland
+AT113,3.0,,,,Südburgenland
+AT12,2.0,,,Niederösterreich,
+AT121,3.0,,,,Mostviertel-Eisenwurzen
+AT122,3.0,,,,Niederösterreich-Süd
+AT123,3.0,,,,Sankt Pölten
+AT124,3.0,,,,Waldviertel
+AT125,3.0,,,,Weinviertel
+AT126,3.0,,,,Wiener Umland/Nordteil
+AT127,3.0,,,,Wiener Umland/Südteil
+AT13,2.0,,,Wien,
+AT130,3.0,,,,Wien
+AT2,1.0,,SÜDÖSTERREICH,,
+AT21,2.0,,,Kärnten,
+AT211,3.0,,,,Klagenfurt-Villach
+AT212,3.0,,,,Oberkärnten
+AT213,3.0,,,,Unterkärnten
+AT22,2.0,,,Steiermark,
+AT221,3.0,,,,Graz
+AT222,3.0,,,,Liezen
+AT223,3.0,,,,Östliche Obersteiermark
+AT224,3.0,,,,Oststeiermark
+AT225,3.0,,,,West- und Südsteiermark
+AT226,3.0,,,,Westliche Obersteiermark
+AT3,1.0,,WESTÖSTERREICH,,
+AT31,2.0,,,Oberösterreich,
+AT311,3.0,,,,Innviertel
+AT312,3.0,,,,Linz-Wels
+AT313,3.0,,,,Mühlviertel
+AT314,3.0,,,,Steyr-Kirchdorf
+AT315,3.0,,,,Traunviertel
+AT32,2.0,,,Salzburg,
+AT321,3.0,,,,Lungau
+AT322,3.0,,,,Pinzgau-Pongau
+AT323,3.0,,,,Salzburg und Umgebung
+AT33,2.0,,,Tirol,
+AT331,3.0,,,,Außerfern
+AT332,3.0,,,,Innsbruck
+AT333,3.0,,,,Osttirol
+AT334,3.0,,,,Tiroler Oberland
+AT335,3.0,,,,Tiroler Unterland
+AT34,2.0,,,Vorarlberg,
+AT341,3.0,,,,Bludenz-Bregenzer Wald
+AT342,3.0,,,,Rheintal-Bodenseegebiet
+ATZ,1.0,,EXTRA-REGIO NUTS 1,,
+ATZZ,2.0,,,Extra-Regio NUTS 2,
+ATZZZ,3.0,,,,Extra-Regio NUTS 3
+PL,0.0,POLSKA,,,
+PL1,1.0,,REGION CENTRALNY,,
+PL11,2.0,,,Łódzkie,
+PL113,3.0,,,,Miasto Łódź
+PL114,3.0,,,,Łódzki
+PL115,3.0,,,,Piotrkowski
+PL116,3.0,,,,Sieradzki
+PL117,3.0,,,,Skierniewicki
+PL12,2.0,,,Mazowieckie,
+PL121,3.0,,,,Ciechanowsko-płocki
+PL122,3.0,,,,Ostrołęcko-siedlecki
+PL127,3.0,,,,Miasto Warszawa
+PL128,3.0,,,,Radomski
+PL129,3.0,,,,Warszawski-wschodni
+PL12A,3.0,,,,Warszawski-zachodni
+PL2,1.0,,REGION POŁUDNIOWY,,
+PL21,2.0,,,Małopolskie,
+PL213,3.0,,,,Miasto Kraków
+PL214,3.0,,,,Krakowski
+PL215,3.0,,,,Nowosądecki
+PL216,3.0,,,,Oświęcimski
+PL217,3.0,,,,Tarnowski
+PL22,2.0,,,Śląskie,
+PL224,3.0,,,,Częstochowski
+PL225,3.0,,,,Bielski
+PL227,3.0,,,,Rybnicki
+PL228,3.0,,,,Bytomski
+PL229,3.0,,,,Gliwicki
+PL22A,3.0,,,,Katowicki
+PL22B,3.0,,,,Sosnowiecki
+PL22C,3.0,,,,Tyski
+PL3,1.0,,REGION WSCHODNI,,
+PL31,2.0,,,Lubelskie,
+PL311,3.0,,,,Bialski
+PL312,3.0,,,,Chełmsko-zamojski
+PL315,3.0,,,,Puławski
+PL314,3.0,,,,Lubelski
+PL32,2.0,,,Podkarpackie,
+PL323,3.0,,,,Krośnieński
+PL324,3.0,,,,Przemyski
+PL325,3.0,,,,Rzeszowski
+PL326,3.0,,,,Tarnobrzeski
+PL33,2.0,,,Świętokrzyskie,
+PL331,3.0,,,,Kielecki
+PL332,3.0,,,,Sandomiersko-jędrzejowski
+PL34,2.0,,,Podlaskie,
+PL343,3.0,,,,Białostocki
+PL344,3.0,,,,Łomżyński
+PL345,3.0,,,,Suwalski
+PL4,1.0,,REGION PÓŁNOCNO-ZACHODNI,,
+PL41,2.0,,,Wielkopolskie,
+PL411,3.0,,,,Pilski
+PL414,3.0,,,,Koniński
+PL415,3.0,,,,Miasto Poznań
+PL416,3.0,,,,Kaliski
+PL417,3.0,,,,Leszczyński
+PL418,3.0,,,,Poznański
+PL42,2.0,,,Zachodniopomorskie,
+PL422,3.0,,,,Koszaliński
+PL423,3.0,,,,Stargardzki
+PL424,3.0,,,,Miasto Szczecin
+PL425,3.0,,,,Szczeciński
+PL43,2.0,,,Lubuskie,
+PL431,3.0,,,,Gorzowski
+PL432,3.0,,,,Zielonogórski
+PL5,1.0,,REGION POŁUDNIOWO-ZACHODNI,,
+PL51,2.0,,,Dolnośląskie,
+PL514,3.0,,,,Miasto Wrocław
+PL515,3.0,,,,Jeleniogórski
+PL516,3.0,,,,Legnicko-Głogowski
+PL517,3.0,,,,Wałbrzyski
+PL518,3.0,,,,Wrocławski
+PL52,2.0,,,Opolskie,
+PL521,3.0,,,,Nyski
+PL522,3.0,,,,Opolski
+PL6,1.0,,REGION PÓŁNOCNY,,
+PL61,2.0,,,Kujawsko-Pomorskie,
+PL613,3.0,,,,Bydgosko-Toruński
+PL614,3.0,,,,Grudziądzki
+PL615,3.0,,,,Włocławski
+PL62,2.0,,,Warmińsko-Mazurskie,
+PL621,3.0,,,,Elbląski
+PL622,3.0,,,,Olsztyński
+PL623,3.0,,,,Ełcki
+PL63,2.0,,,Pomorskie,
+PL631,3.0,,,,Słupski
+PL633,3.0,,,,Trójmiejski
+PL634,3.0,,,,Gdański
+PL635,3.0,,,,Starogardzki
+PLZ,1.0,,EXTRA-REGIO NUTS 1,,
+PLZZ,2.0,,,Extra-Regio NUTS 2,
+PLZZZ,3.0,,,,Extra-Regio NUTS 3
+PT,0.0,PORTUGAL,,,
+PT1,1.0,,CONTINENTE,,
+PT11,2.0,,,Norte,
+PT111,3.0,,,,Minho-Lima
+PT112,3.0,,,,Cávado
+PT113,3.0,,,,Ave
+PT114,3.0,,,,Grande Porto
+PT115,3.0,,,,Tâmega
+PT116,3.0,,,,Entre Douro e Vouga
+PT117,3.0,,,,Douro
+PT118,3.0,,,,Alto Trás-os-Montes
+PT15,2.0,,,Algarve,
+PT150,3.0,,,,Algarve
+PT16,2.0,,,Centro (PT),
+PT161,3.0,,,,Baixo Vouga
+PT162,3.0,,,,Baixo Mondego
+PT163,3.0,,,,Pinhal Litoral
+PT164,3.0,,,,Pinhal Interior Norte
+PT165,3.0,,,,Dão-Lafões
+PT166,3.0,,,,Pinhal Interior Sul
+PT167,3.0,,,,Serra da Estrela
+PT168,3.0,,,,Beira Interior Norte
+PT169,3.0,,,,Beira Interior Sul
+PT16A,3.0,,,,Cova da Beira
+PT16B,3.0,,,,Oeste
+PT16C,3.0,,,,Médio Tejo
+PT17,2.0,,,Lisboa,
+PT171,3.0,,,,Grande Lisboa
+PT172,3.0,,,,Península de Setúbal
+PT18,2.0,,,Alentejo,
+PT181,3.0,,,,Alentejo Litoral
+PT182,3.0,,,,Alto Alentejo
+PT183,3.0,,,,Alentejo Central
+PT184,3.0,,,,Baixo Alentejo
+PT185,3.0,,,,Lezíria do Tejo
+PT2,1.0,,REGIÃO AUTÓNOMA DOS AÇORES,,
+PT20,2.0,,,Região Autónoma dos Açores,
+PT200,3.0,,,,Região Autónoma dos Açores
+PT3,1.0,,REGIÃO AUTÓNOMA DA MADEIRA,,
+PT30,2.0,,,Região Autónoma da Madeira,
+PT300,3.0,,,,Região Autónoma da Madeira
+PTZ,1.0,,EXTRA-REGIO NUTS 1,,
+PTZZ,2.0,,,Extra-Regio NUTS 2,
+PTZZZ,3.0,,,,Extra-Regio NUTS 3
+RO,0.0,ROMÂNIA,,,
+RO1,1.0,,MACROREGIUNEA UNU,,
+RO11,2.0,,,Nord-Vest,
+RO111,3.0,,,,Bihor
+RO112,3.0,,,,Bistriţa-Năsăud
+RO113,3.0,,,,Cluj
+RO114,3.0,,,,Maramureş
+RO115,3.0,,,,Satu Mare
+RO116,3.0,,,,Sălaj
+RO12,2.0,,,Centru,
+RO121,3.0,,,,Alba
+RO122,3.0,,,,Braşov
+RO123,3.0,,,,Covasna
+RO124,3.0,,,,Harghita
+RO125,3.0,,,,Mureş
+RO126,3.0,,,,Sibiu
+RO2,1.0,,MACROREGIUNEA DOI,,
+RO21,2.0,,,Nord-Est,
+RO211,3.0,,,,Bacău
+RO212,3.0,,,,Botoşani
+RO213,3.0,,,,Iaşi
+RO214,3.0,,,,Neamţ
+RO215,3.0,,,,Suceava
+RO216,3.0,,,,Vaslui
+RO22,2.0,,,Sud-Est,
+RO221,3.0,,,,Brăila
+RO222,3.0,,,,Buzău
+RO223,3.0,,,,Constanţa
+RO224,3.0,,,,Galaţi
+RO225,3.0,,,,Tulcea
+RO226,3.0,,,,Vrancea
+RO3,1.0,,MACROREGIUNEA TREI,,
+RO31,2.0,,,Sud - Muntenia,
+RO311,3.0,,,,Argeş
+RO312,3.0,,,,Călăraşi
+RO313,3.0,,,,Dâmboviţa
+RO314,3.0,,,,Giurgiu
+RO315,3.0,,,,Ialomiţa
+RO316,3.0,,,,Prahova
+RO317,3.0,`,,,Teleorman
+RO32,2.0,,,Bucureşti - Ilfov,
+RO321,3.0,,,,Bucureşti
+RO322,3.0,, ,,Ilfov
+RO4,1.0,,MACROREGIUNEA PATRU,,
+RO41,2.0,,,Sud-Vest Oltenia,
+RO411,3.0,,,,Dolj
+RO412,3.0,,,,Gorj
+RO413,3.0,,,,Mehedinţi
+RO414,3.0,,,,Olt
+RO415,3.0,,,,Vâlcea
+RO42,2.0,,,Vest,
+RO421,3.0,,,,Arad
+RO422,3.0,,,,Caraş-Severin
+RO423,3.0,,,,Hunedoara
+RO424,3.0,,,,Timiş
+ROZ,1.0,,EXTRA-REGIO NUTS 1,,
+ROZZ,2.0,,,Extra-Regio NUTS 2,
+ROZZZ,3.0,,,,Extra-Regio NUTS 3
+SI,0.0,SLOVENIJA,,,
+SI0,1.0,,SLOVENIJA,,
+SI01,2.0,,,Vzhodna Slovenija,
+SI011,3.0,,,,Pomurska
+SI012,3.0,,,,Podravska
+SI013,3.0,,,,Koroška
+SI014,3.0,,,,Savinjska
+SI015,3.0,,,,Zasavska
+SI016,3.0,,,,Spodnjeposavska
+SI017,3.0,,,,Jugovzhodna Slovenija
+SI018,3.0,,,,Notranjsko-kraška
+SI02,2.0,,,Zahodna Slovenija,
+SI021,3.0,,,,Osrednjeslovenska
+SI022,3.0,,,,Gorenjska
+SI023,3.0,,,,Goriška
+SI024,3.0,,,,Obalno-kraška
+SIZ,1.0,,EXTRA-REGIO NUTS 1,,
+SIZZ,2.0,,,Extra-Regio NUTS 2,
+SIZZZ,3.0,,,,Extra-Regio NUTS 3
+SK,0.0,SLOVENSKO,,,
+SK0,1.0,,SLOVENSKO,,
+SK01,2.0,,,Bratislavský kraj,
+SK010,3.0,,,,Bratislavský kraj
+SK02,2.0,,,Západné Slovensko,
+SK021,3.0,,,,Trnavský kraj
+SK022,3.0,,,,Trenčiansky kraj
+SK023,3.0,,,,Nitriansky kraj
+SK03,2.0,,,Stredné Slovensko,
+SK031,3.0,,,,Žilinský kraj
+SK032,3.0,,,,Banskobystrický kraj
+SK04,2.0,,,Východné Slovensko,
+SK041,3.0,,,,Prešovský kraj
+SK042,3.0,,,,Košický kraj
+SKZ,1.0,,EXTRA-REGIO NUTS 1,,
+SKZZ,2.0,,,Extra-Regio NUTS 2,
+SKZZZ,3.0,,,,Extra-Regio NUTS 3
+FI,0.0,SUOMI / FINLAND,,,
+FI1,1.0,,MANNER-SUOMI,,
+FI1D (part),2.0,,,Itä-Suomi,
+FI1D1,3.0,,,,Etelä-Savo
+FI1D2,3.0,,,,Pohjois-Savo
+FI1D3,3.0,,,,Pohjois-Karjala
+FI1D4,3.0,,,,Kainuu
+,2.0,,,Etelä-Suomi,
+FI1B,2.0,,,Helsinki-Uusimaa,
+FI1B1 (part),3.0,,,,Uusimaa
+FI1B1 (part),3.0,,,,Itä-Uusimaa
+FI1B1,3.0,,,,Helsinki-Uusimaa
+FI1C,2.0,,,Etelä-Suomi,
+FI1C1,3.0,,,,Varsinais-Suomi
+FI1C2,3.0,,,,Kanta-Häme
+FI1C3,3.0,,,,Päijät-Häme
+FI1C4,3.0,,,,Kymenlaakso
+FI1C5,3.0,,,,Etelä-Karjala
+FI19,2.0,,,Länsi-Suomi,
+FI193,3.0,,,,Keski-Suomi
+FI194,3.0,,,,Etelä-Pohjanmaa
+FI195,3.0,,,,Pohjanmaa
+FI196,3.0,,,,Satakunta
+FI197,3.0,,,,Pirkanmaa
+FI1D (part),2.0,,,Pohjois-Suomi,
+FI1D,2.0,,,Pohjois- ja Itä-Suomi,
+FI1D5,3.0,,,,Keski-Pohjanmaa
+FI1D6,3.0,,,,Pohjois-Pohjanmaa
+FI1D7,3.0,,,,Lappi
+FI2,1.0,,ÅLAND,,
+FI20,2.0,,,Åland,
+FI200,3.0,,,,Åland
+FIZ,1.0,,EXTRA-REGIO NUTS 1,,
+FIZZ,2.0,,,Extra-Regio NUTS 2,
+FIZZZ,3.0,,,,Extra-Regio NUTS 3
+SE,0.0,SVERIGE,,,
+SE1,1.0,,ÖSTRA SVERIGE,,
+SE11,2.0,,,Stockholm,
+SE110,3.0,,,,Stockholms län
+SE12,2.0,,,Östra Mellansverige,
+SE121,3.0,,,,Uppsala län
+SE122,3.0,,,,Södermanlands län
+SE123,3.0,,,,Östergötlands län
+SE124,3.0,,,,Örebro län
+SE125,3.0,,,,Västmanlands län
+SE2,1.0,,SÖDRA SVERIGE,,
+SE21,2.0,,,Småland med öarna,
+SE211,3.0,,,,Jönköpings län
+SE212,3.0,,,,Kronobergs län
+SE213,3.0,,,,Kalmar län
+SE214,3.0,,,,Gotlands län
+SE22,2.0,,,Sydsverige,
+SE221,3.0,,,,Blekinge län
+SE224,3.0,,,,Skåne län
+SE23,2.0,,,Västsverige,
+SE231,3.0,,,,Hallands län
+SE232,3.0,,,,Västra Götalands län
+SE3,1.0,,NORRA SVERIGE,,
+SE31,2.0,,,Norra Mellansverige,
+SE311,3.0,,,,Värmlands län
+SE312,3.0,,,,Dalarnas län
+SE313,3.0,,,,Gävleborgs län
+SE32,2.0,,,Mellersta Norrland,
+SE321,3.0,,,,Västernorrlands län
+SE322,3.0,,,,Jämtlands län
+SE33,2.0,,,Övre Norrland,
+SE331,3.0,,,,Västerbottens län
+SE332,3.0,,,,Norrbottens län
+SEZ,1.0,,EXTRA-REGIO NUTS 1,,
+SEZZ,2.0,,,Extra-Regio NUTS 2,
+SEZZZ,3.0,,,,Extra-Regio NUTS 3
+UK,0.0,UNITED KINGDOM,,,
+UKC,1.0,,NORTH EAST (ENGLAND),,
+UKC1,2.0,,,Tees Valley and Durham,
+UKC11,3.0,,,,Hartlepool and Stockton-on-Tees
+UKC12,3.0,,,,South Teesside
+UKC13,3.0,,,,Darlington
+UKC14,3.0,,,,Durham CC
+UKC2,2.0,,,Northumberland and Tyne and Wear,
+UKC21,3.0,,,,Northumberland
+UKC22,3.0,,,,Tyneside
+UKC23,3.0,,,,Sunderland
+UKD,1.0,,NORTH WEST (ENGLAND),,
+UKD1,2.0,,,Cumbria,
+UKD11,3.0,,,,West Cumbria
+UKD12,3.0,,,,East Cumbria
+,2.0,,,Cheshire,
+UKD6,2.0,,,Cheshire,
+,3.0,,,,Halton and Warrington
+UKD61,3.0,,,,Warrington
+,3.0,,,,Cheshire CC
+UKD62,3.0,,,,Cheshire East
+UKD63,3.0,,,,Cheshire West and Chester
+UKD3,2.0,,,Greater Manchester,
+UKD31,3.0,,,,Greater Manchester South
+UKD32,3.0,,,,Greater Manchester North
+UKD4,2.0,,,Lancashire,
+UKD41,3.0,,,,Blackburn with Darwen
+UKD42,3.0,,,,Blackpool
+UKD43,3.0,,,,Lancashire CC
+,2.0,,,Merseyside,
+UKD7,2.0,,,Merseyside,
+,3.0,,,,East Merseyside
+UKD71,3.0,,,,East Merseyside
+UKD72,3.0,,,,Liverpool
+UKD73,3.0,,,,Sefton
+UKD74,3.0,,,,Wirral
+UKE,1.0,,YORKSHIRE AND THE HUMBER,,
+UKE1,2.0,,,East Yorkshire and Northern Lincolnshire,
+UKE11,3.0,,,,"Kingston upon Hull, City of"
+UKE12,3.0,,,,East Riding of Yorkshire
+UKE13,3.0,,,,North and North East Lincolnshire
+UKE2,2.0,,,North Yorkshire,
+UKE21,3.0,,,,York
+UKE22,3.0,,,,North Yorkshire CC
+UKE3,2.0,,,South Yorkshire,
+UKE31,3.0,,,,"Barnsley, Doncaster and Rotherham"
+UKE32,3.0,,,,Sheffield
+UKE4,2.0,,,West Yorkshire,
+UKE41,3.0,,,,Bradford
+UKE42,3.0,,,,Leeds
+,3.0,,,,"Calderdale, Kirklees and Wakefield"
+UKE44,3.0,,,,Calderdale and Kirklees
+UKE45,3.0,,,,Wakefield
+UKF,1.0,,EAST MIDLANDS (ENGLAND),,
+UKF1,2.0,,,Derbyshire and Nottinghamshire,
+UKF11,3.0,,,,Derby
+UKF12,3.0,,,,East Derbyshire
+UKF13,3.0,,,,South and West Derbyshire
+UKF14,3.0,,,,Nottingham
+UKF15,3.0,,,,North Nottinghamshire
+UKF16,3.0,,,,South Nottinghamshire
+UKF2,2.0,,,"Leicestershire, Rutland and Northamptonshire",
+UKF21,3.0,,,,Leicester
+UKF22,3.0,,,,Leicestershire CC and Rutland
+,3.0,,,,Northamptonshire
+UKF24,3.0,,,,West Northamptonshire
+UKF25,3.0,,,,North Northamptonshire
+UKF3,2.0,,,Lincolnshire,
+UKF30,3.0,,,,Lincolnshire
+UKG,1.0,,WEST MIDLANDS (ENGLAND),,
+UKG1,2.0,,,"Herefordshire, Worcestershire and Warwickshire",
+UKG11,3.0,,,,"Herefordshire, County of"
+UKG12,3.0,,,,Worcestershire
+UKG13,3.0,,,,Warwickshire
+UKG2,2.0,,,Shropshire and Staffordshire,
+UKG21,3.0,,,,Telford and Wrekin
+UKG22,3.0,,,,Shropshire CC
+UKG23,3.0,,,,Stoke-on-Trent
+UKG24,3.0,,,,Staffordshire CC
+UKG3,2.0,,,West Midlands,
+UKG31,3.0,,,,Birmingham
+UKG32,3.0,,,,Solihull
+UKG33,3.0,,,,Coventry
+,3.0,,,,Dudley and Sandwell
+UKG36,3.0,,,,Dudley
+UKG37,3.0,,,,Sandwell
+,3.0,,,,Walsall and Wolverhampton
+UKG38,3.0,,,,Walsall
+UKG39,3.0,,,,Wolverhampton
+UKH,1.0,,EAST OF ENGLAND,,
+UKH1,2.0,,,East Anglia,
+UKH11,3.0,,,,Peterborough
+UKH12,3.0,,,,Cambridgeshire CC
+UKH13,3.0,,,,Norfolk
+UKH14,3.0,,,,Suffolk
+UKH2,2.0,,,Bedfordshire and Hertfordshire,
+UKH21,3.0,,,,Luton
+,3.0,,,,Bedfordshire CC
+UKH24,3.0,,,,Bedford
+UKH25,3.0,,,,Central Bedfordshire
+UKH23,3.0,,,,Hertfordshire
+UKH3,2.0,,,Essex,
+UKH31,3.0,,,,Southend-on-Sea
+UKH32,3.0,,,,Thurrock
+UKH33,3.0,,,,Essex CC
+UKI,1.0,,LONDON,,
+UKI1,2.0,,,Inner London,
+UKI11,3.0,,,,Inner London - West
+UKI12,3.0,,,,Inner London - East
+UKI2,2.0,,,Outer London,
+UKI21,3.0,,,,Outer London - East and North East
+UKI22,3.0,,,,Outer London - South
+UKI23,3.0,,,,Outer London - West and North West
+UKJ,1.0,,SOUTH EAST (ENGLAND),,
+UKJ1,2.0,,,"Berkshire, Buckinghamshire and Oxfordshire",
+UKJ11,3.0,,,,Berkshire
+UKJ12,3.0,,,,Milton Keynes
+UKJ13,3.0,,,,Buckinghamshire CC
+UKJ14,3.0,,,,Oxfordshire
+UKJ2,2.0,,,"Surrey, East and West Sussex",
+UKJ21,3.0,,,,Brighton and Hove
+UKJ22,3.0,,,,East Sussex CC
+UKJ23,3.0,,,,Surrey
+UKJ24,3.0,,,,West Sussex
+UKJ3,2.0,,,Hampshire and Isle of Wight,
+UKJ31,3.0,,,,Portsmouth
+UKJ32,3.0,,,,Southampton
+UKJ33,3.0,,,,Hampshire CC
+UKJ34,3.0,,,,Isle of Wight
+UKJ4,2.0,,,Kent,
+UKJ41,3.0,,,,Medway
+UKJ42,3.0,,,,Kent CC
+UKK,1.0,,SOUTH WEST (ENGLAND),,
+UKK1,2.0,,,"Gloucestershire, Wiltshire and Bristol/Bath area",
+UKK11,3.0,,,,"Bristol, City of"
+UKK12,3.0,,,,"Bath and North East Somerset, North Somerset and South Gloucestershire"
+UKK13,3.0,,,,Gloucestershire
+UKK14,3.0,,,,Swindon
+UKK15,3.0,,,,Wiltshire CC
+UKK2,2.0,,,Dorset and Somerset,
+UKK21,3.0,,,,Bournemouth and Poole
+UKK22,3.0,,,,Dorset CC
+UKK23,3.0,,,,Somerset
+UKK3,2.0,,,Cornwall and Isles of Scilly,
+UKK30,3.0,,,,Cornwall and Isles of Scilly
+UKK4,2.0,,,Devon,
+UKK41,3.0,,,,Plymouth
+UKK42,3.0,,,,Torbay
+UKK43,3.0,,,,Devon CC
+UKL,1.0,,WALES,,
+UKL1,2.0,,,West Wales and The Valleys,
+UKL11,3.0,,,,Isle of Anglesey
+UKL12,3.0,,,,Gwynedd
+UKL13,3.0,,,,Conwy and Denbighshire
+UKL14,3.0,,,,South West Wales
+UKL15,3.0,,,,Central Valleys
+UKL16,3.0,,,,Gwent Valleys
+UKL17,3.0,,,,Bridgend and Neath Port Talbot
+UKL18,3.0,,,,Swansea
+UKL2,2.0,,,East Wales,
+UKL21,3.0,,,,Monmouthshire and Newport
+UKL22,3.0,,,,Cardiff and Vale of Glamorgan
+UKL23,3.0,,,,Flintshire and Wrexham
+UKL24,3.0,,,,Powys
+UKM,1.0,,SCOTLAND,,
+UKM2,2.0,,,Eastern Scotland,
+UKM21,3.0,,,,Angus and Dundee City
+UKM22,3.0,,,,Clackmannanshire and Fife
+UKM23,3.0,,,,East Lothian and Midlothian
+UKM24,3.0,,,,Scottish Borders
+UKM25,3.0,,,,"Edinburgh, City of"
+UKM26,3.0,,,,Falkirk
+UKM27,3.0,,,,Perth & Kinross and Stirling
+UKM28,3.0,,,,West Lothian
+UKM3,2.0,,,South Western Scotland,
+UKM31,3.0,,,,"East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond"
+UKM32,3.0,,,,Dumfries & Galloway
+UKM33,3.0,,,,East Ayrshire and North Ayrshire mainland
+UKM34,3.0,,,,Glasgow City
+UKM35,3.0,,,,"Inverclyde, East Renfrewshire and Renfrewshire"
+UKM36,3.0,,,,North Lanarkshire
+UKM37,3.0,,,,South Ayrshire
+UKM38,3.0,,,,South Lanarkshire
+UKM5,2.0,,,North Eastern Scotland,
+UKM50,3.0,,,,Aberdeen City and Aberdeenshire
+UKM6,2.0,,,Highlands and Islands,
+UKM61,3.0,,,,Caithness & Sutherland and Ross & Cromarty
+UKM62,3.0,,,,"Inverness & Nairn and Moray, Badenoch & Strathspey"
+UKM63,3.0,,,,"Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute"
+UKM64,3.0,,,,Eilean Siar (Western Isles)
+UKM65,3.0,,,,Orkney Islands
+UKM66,3.0,,,,Shetland Islands
+UKN,1.0,,NORTHERN IRELAND,,
+UKN0,2.0,,,Northern Ireland,
+UKN01,3.0,,,,Belfast
+UKN02,3.0,,,,Outer Belfast
+UKN03,3.0,,,,East of Northern Ireland
+UKN04,3.0,,,,North of Northern Ireland
+UKN05,3.0,,,,West and South of Northern Ireland
+UKZ,1.0,,EXTRA-REGIO NUTS 1,,
+UKZZ,2.0,,,Extra-Regio NUTS 2,
+UKZZZ,3.0,,,,Extra-Regio NUTS 3
+,,,,,
+,,,,,
+Note: NUTS 2010 codes in italics and with the note (part) are created from whole NUTS 2006 regions. ,,,,,
+Data can thus be aggregated from NUTS 2006 to NUTS 2010 for these regions,,,,,
+,,,,,
+Note: NUTS 2006 codes in italics and with the note (part) are split in a number of whole NUTS 2010 regions.,,,,,
