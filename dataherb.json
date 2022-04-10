@@ -1,0 +1,283 @@
+{
+    "source": "git",
+    "name": "Eurostats NUTs System",
+    "id": "dataset-eu-nuts",
+    "description": "Eurostats NUTS system files ready to be used in data science projects",
+    "uri": "https://github.com/datumorphism/dataset-eu-nuts.git",
+    "metadata_uri": "https://raw.githubusercontent.com/datumorphism/dataset-eu-nuts/main/dataherb.json",
+    "datapackage": {
+        "profile": "tabular-data-package",
+        "resources": [
+            {
+                "path": "dataset/nuts_v2010__2012_2014.csv",
+                "profile": "tabular-data-resource",
+                "name": "nuts_v2010__2012_2014",
+                "format": "csv",
+                "mediatype": "text/csv",
+                "encoding": "utf-8",
+                "schema": {
+                    "fields": [
+                        {
+                            "name": "nuts_code",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_level",
+                            "type": "number",
+                            "format": "default"
+                        },
+                        {
+                            "name": "country",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_1",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_2",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_3",
+                            "type": "string",
+                            "format": "default"
+                        }
+                    ],
+                    "missingValues": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "path": "dataset/nuts_v2013__2015_2017.csv",
+                "profile": "tabular-data-resource",
+                "name": "nuts_v2013__2015_2017",
+                "format": "csv",
+                "mediatype": "text/csv",
+                "encoding": "utf-8",
+                "schema": {
+                    "fields": [
+                        {
+                            "name": "nuts_code",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_level",
+                            "type": "number",
+                            "format": "default"
+                        },
+                        {
+                            "name": "country",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_1",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_2",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_3",
+                            "type": "string",
+                            "format": "default"
+                        }
+                    ],
+                    "missingValues": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "path": "dataset/nuts_v2006__2008_2011.csv",
+                "profile": "tabular-data-resource",
+                "name": "nuts_v2006__2008_2011",
+                "format": "csv",
+                "mediatype": "text/csv",
+                "encoding": "utf-8",
+                "schema": {
+                    "fields": [
+                        {
+                            "name": "nuts_code",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_level",
+                            "type": "number",
+                            "format": "default"
+                        },
+                        {
+                            "name": "country",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_1",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_2",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_3",
+                            "type": "string",
+                            "format": "default"
+                        }
+                    ],
+                    "missingValues": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "path": "dataset/nuts_v2003__2004_2007.csv",
+                "profile": "tabular-data-resource",
+                "name": "nuts_v2003__2004_2007",
+                "format": "csv",
+                "mediatype": "text/csv",
+                "encoding": "utf-8",
+                "schema": {
+                    "fields": [
+                        {
+                            "name": "nuts_code",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_level",
+                            "type": "number",
+                            "format": "default"
+                        },
+                        {
+                            "name": "country",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_1",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_2",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_3",
+                            "type": "string",
+                            "format": "default"
+                        }
+                    ],
+                    "missingValues": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "path": "dataset/nuts_v2016__2018_2020.csv",
+                "profile": "tabular-data-resource",
+                "name": "nuts_v2016__2018_2020",
+                "format": "csv",
+                "mediatype": "text/csv",
+                "encoding": "utf-8",
+                "schema": {
+                    "fields": [
+                        {
+                            "name": "nuts_code",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_level",
+                            "type": "integer",
+                            "format": "default"
+                        },
+                        {
+                            "name": "country",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_1",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_2",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_3",
+                            "type": "string",
+                            "format": "default"
+                        }
+                    ],
+                    "missingValues": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "path": "dataset/nuts_v2021__2021_.csv",
+                "profile": "tabular-data-resource",
+                "name": "nuts_v2021__2021_",
+                "format": "csv",
+                "mediatype": "text/csv",
+                "encoding": "utf-8",
+                "schema": {
+                    "fields": [
+                        {
+                            "name": "nuts_code",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_level",
+                            "type": "number",
+                            "format": "default"
+                        },
+                        {
+                            "name": "country",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_1",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_2",
+                            "type": "string",
+                            "format": "default"
+                        },
+                        {
+                            "name": "nuts_3",
+                            "type": "string",
+                            "format": "default"
+                        }
+                    ],
+                    "missingValues": [
+                        ""
+                    ]
+                }
+            }
+        ]
+    }
+}
