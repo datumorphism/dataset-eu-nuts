@@ -1,5 +1,5 @@
 nuts_code,nuts_level,country,nuts_1,nuts_2,nuts_3
-BE,0,BELGIQUE-BELGIË ,,,
+BE,0,BELGIQUE-BELGIË,,,
 BE1,1,,RÉGION DE BRUXELLES-CAPITALE/BRUSSELS HOOFDSTEDELIJK GEWEST,,
 BE10,2,,,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,
 BE100,3,,,,Arr. de Bruxelles-Capitale/Arr. van Brussel-Hoofdstad
@@ -629,9 +629,9 @@ IE041,3,,,,Border
 IE042,3,,,,West
 ,2,,,Southern and Eastern,
 IE05,2,,,Southern,
-IE051,3,,,,Mid-West 
-IE052,3,,,,South-East 
-IE053,3,,,,South-West 
+IE051,3,,,,Mid-West
+IE052,3,,,,South-East
+IE053,3,,,,South-West
 IE06,2,,,Eastern and Midland,
 IE061,3,,,,Dublin
 IE062,3,,,,Mid-East
@@ -805,11 +805,11 @@ FR,0,FRANCE,,,
 FR1,1,,ILE-DE-FRANCE,,
 FR10,2,,,Ile-de-France,
 FR101,3,,,,Paris
-FR102,3,,,,Seine-et-Marne 
-FR103,3,,,,Yvelines 
+FR102,3,,,,Seine-et-Marne
+FR103,3,,,,Yvelines
 FR104,3,,,,Essonne
-FR105,3,,,,Hauts-de-Seine 
-FR106,3,,,,Seine-Saint-Denis 
+FR105,3,,,,Hauts-de-Seine
+FR106,3,,,,Seine-Saint-Denis
 FR107,3,,,,Val-de-Marne
 FR108,3,,,,Val-d’Oise
 FRB,1,,CENTRE — VAL DE LOIRE,,
@@ -832,11 +832,11 @@ FRC22,3,,,,Jura
 FRC23,3,,,,Haute-Saône
 FRC24,3,,,,Territoire de Belfort
 FRD,1,,NORMANDIE,,
-FRD1,2,,,Basse-Normandie ,
-FRD11,3,,,,Calvados 
-FRD12,3,,,,Manche 
+FRD1,2,,,Basse-Normandie,
+FRD11,3,,,,Calvados
+FRD12,3,,,,Manche
 FRD13,3,,,,Orne
-FRD2,2,,,Haute-Normandie ,
+FRD2,2,,,Haute-Normandie,
 FRD21,3,,,,Eure
 FRD22,3,,,,Seine-Maritime
 FRE,1,,NORD-PAS DE CALAIS-PICARDIE,,
@@ -857,8 +857,8 @@ FRF22,3,,,,Aube
 FRF23,3,,,,Marne
 FRF24,3,,,,Haute-Marne
 FRF3,2,,,Lorraine,
-FRF31,3,,,,Meurthe-et-Moselle 
-FRF32,3,,,,Meuse 
+FRF31,3,,,,Meurthe-et-Moselle
+FRF32,3,,,,Meuse
 FRF33,3,,,,Moselle
 FRF34,3,,,,Vosges
 FRG,1,,PAYS DE LA LOIRE,,
@@ -903,7 +903,7 @@ FRJ22,3,,,,Aveyron
 FRJ23,3,,,,Haute-Garonne
 FRJ24,3,,,,Gers
 FRJ25,3,,,,Lot
-FRJ26,3,,,,Hautes-Pyrénées 
+FRJ26,3,,,,Hautes-Pyrénées
 FRJ27,3,,,,Tarn
 FRJ28,3,,,,Tarn-et-Garonne
 FRK,1,,AUVERGNE-RHÔNE-ALPES,,
@@ -924,7 +924,7 @@ FRK28,3,,,,Haute-Savoie
 FRL,1,,PROVENCE-ALPES-CÔTE D’AZUR,,
 FRL0,2,,,Provence-Alpes-Côte d’Azur,
 FRL01,3,,,,Alpes-de-Haute-Provence
-FRL02,3,,,,Hautes-Alpes 
+FRL02,3,,,,Hautes-Alpes
 FRL03,3,,,,Alpes-Maritimes
 FRL04,3,,,,Bouches-du-Rhône
 FRL05,3,,,,Var
@@ -936,14 +936,14 @@ FRM02,3,,,,Haute-Corse
 FRY,1,,RUP FR — RÉGIONS ULTRAPÉRIPHÉRIQUES FRANÇAISES,,
 FRY1,2,,,Guadeloupe,
 FRY10,3,,,,Guadeloupe
-FRY2,2,,,Martinique ,
-FRY20,3,,,,Martinique 
+FRY2,2,,,Martinique,
+FRY20,3,,,,Martinique
 FRY3,2,,,Guyane,
 FRY30,3,,,,Guyane
-FRY4,2,,,La Réunion ,
+FRY4,2,,,La Réunion,
 FRY40,3,,,,La Réunion
 FRY5,2,,,Mayotte,
-FRY50,3,,,,Mayotte 
+FRY50,3,,,,Mayotte
 FRZ,1,,EXTRA-REGIO NUTS 1,,
 FRZZ,2,,,Extra-Regio NUTS 2,
 FRZZZ,3,,,,Extra-Regio NUTS 3
@@ -1146,7 +1146,7 @@ LT0,1,,LIETUVA,,
 ,2,,,Lietuva,
 LT01,2,,,Sostinės regionas,
 LT011,3,,,,Vilniaus apskritis
-LT02,2,,,Vidurio ir vakarų Lietuvos regionas ,
+LT02,2,,,Vidurio ir vakarų Lietuvos regionas,
 LT021,3,,,,Alytaus apskritis
 LT022,3,,,,Kauno apskritis
 LT023,3,,,,Klaipėdos apskritis
@@ -1506,7 +1506,7 @@ RO316,3,,,,Prahova
 RO317,3,,,,Teleorman
 RO32,2,,,Bucureşti-Ilfov,
 RO321,3,,,,Bucureşti
-RO322,3,, ,,Ilfov
+RO322,3,,,,Ilfov
 RO4,1,,MACROREGIUNEA PATRU,,
 RO41,2,,,Sud-Vest Oltenia,
 RO411,3,,,,Dolj
@@ -1854,7 +1854,7 @@ UKN06,3,,,,Belfast
 ,3,,,,West and South of Northern Ireland
 UKN07,3,,,,"Armagh City, Banbridge and Craigavon"
 UKN08,3,,,,"Newry, Mourne and Down"
-UKN09,3,,,,Ards and North Down 
+UKN09,3,,,,Ards and North Down
 UKN10,3,,,,Derry City and Strabane
 UKN11,3,,,,Mid Ulster
 UKN12,3,,,,Causeway Coast and Glens

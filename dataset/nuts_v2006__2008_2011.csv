@@ -1,5 +1,5 @@
 nuts_code,nuts_level,country,nuts_1,nuts_2,nuts_3
-BE,0.0,BELGIQUE-BELGIË ,,,
+BE,0.0,BELGIQUE-BELGIË,,,
 BE1,1.0,,RÉGION DE BRUXELLES-CAPITALE / BRUSSELS HOOFDSTEDELIJK GEWEST,,
 BE10,2.0,,,Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest,
 BE100,3.0,,,,Arr. de Bruxelles-Capitale / Arr. van Brussel-Hoofdstad
@@ -126,9 +126,9 @@ CZ051,3.0,,,,Liberecký kraj
 CZ052,3.0,,,,Královéhradecký kraj
 CZ053,3.0,,,,Pardubický kraj
 CZ06,2.0,,,Jihovýchod,
- ,3.0,,,,Vysočina
+,3.0,,,,Vysočina
 CZ063,3.0,,,,Vysočina
- ,3.0,,,,Jihomoravský kraj
+,3.0,,,,Jihomoravský kraj
 CZ064,3.0,,,,Jihomoravský kraj
 CZ07,2.0,,,Střední Morava,
 CZ071,3.0,,,,Olomoucký kraj
@@ -142,18 +142,18 @@ DK,0.0,DANMARK,,,
 DK0,1.0,,DANMARK,,
 ,2.0,,,Danmark,
 ,3.0,,,,København og Frederiksberg kommuner
-,3.0,,,,Københavns amt 
-,3.0,,,,Frederiksborg amt 
-,3.0,,,,Roskilde amt 
-,3.0,,,,Vestsjællands amt 
-,3.0,,,,Storstrøms amt 
-,3.0,,,,Sønderjyllands amt 
-,3.0,,,,Ribe amt 
-,3.0,,,,Vejle amt 
-,3.0,,,,Ringkøbing amt 
-,3.0,,,,Århus amt 
-,3.0,,,,Viborg amt 
-,3.0,,,,Nordjyllands amt 
+,3.0,,,,Københavns amt
+,3.0,,,,Frederiksborg amt
+,3.0,,,,Roskilde amt
+,3.0,,,,Vestsjællands amt
+,3.0,,,,Storstrøms amt
+,3.0,,,,Sønderjyllands amt
+,3.0,,,,Ribe amt
+,3.0,,,,Vejle amt
+,3.0,,,,Ringkøbing amt
+,3.0,,,,Århus amt
+,3.0,,,,Viborg amt
+,3.0,,,,Nordjyllands amt
 DK01,2.0,,,Hovedstaden,
 DK011,3.0,,,,Byen København
 DK012,3.0,,,,Københavns omegn
@@ -173,7 +173,7 @@ DK050,3.0,,,,Nordjylland
 DKZ,1.0,,EXTRA-REGIO,,
 DKZZ,2.0,,,Extra-Regio,
 DKZZZ,3.0,,,,Extra-Regio
-DE,0.0,DEUTSCHLAND ,,,
+DE,0.0,DEUTSCHLAND,,,
 DE1,1.0,,BADEN-WÜRTTEMBERG,,
 DE11,2.0,,,Stuttgart,
 DE111,3.0,,,,"Stuttgart, Stadtkreis"
@@ -601,19 +601,19 @@ DED34,3.0,,,,Leipziger Land
 DED35,3.0,,,,Muldentalkreis
 DED36,3.0,,,,Torgau-Oschatz
 DEE,1.0,,SACHSEN-ANHALT,,
-DEE0 (part),2.0,,,Dessau ,
+DEE0 (part),2.0,,,Dessau,
 DEE0 (part),2.0,,,Halle,
 DEE0 (part),2.0,,,Magdeburg,
 ,3.0,,,,"Dessau, Kreisfreie Stadt"
 ,3.0,,,,Anhalt-Zerbst
-,3.0,,,,Bernburg 
-,3.0,,,,Bitterfeld 
-,3.0,,,,Köthen 
+,3.0,,,,Bernburg
+,3.0,,,,Bitterfeld
+,3.0,,,,Köthen
 ,3.0,,,,Wittenberg
 DEE07 (part),3.0,,,,Bördekreis
 DEE07 (part),3.0,,,,Ohrekreis
 DEE08 (part),3.0,,,,Burgenlandkreis
-DEE08 (part),3.0,,,,Weißenfels 
+DEE08 (part),3.0,,,,Weißenfels
 DEE0A (part),3.0,,,,Mansfelder Land
 DEE0A (part),3.0,,,,Sangerhausen
 DEE0B (part),3.0,,,,Merseburg-Querfurt
@@ -621,7 +621,7 @@ DEE0B (part),3.0,,,,Saalkreis
 ,3.0,,,,Aschersleben-Staßfurt
 ,3.0,,,,Halberstadt
 ,3.0,,,,Jerichower Land
-,3.0,,,,Quedlinburg 
+,3.0,,,,Quedlinburg
 ,3.0,,,,Schönebeck
 ,3.0,,,,Wernigerode
 DEE0,2.0,,,Sachsen-Anhalt,
@@ -782,7 +782,7 @@ GR434,3.0,,,,Χανιά
 GRZ,1.0,,EXTRA-REGIO,,
 GRZZ,2.0,,,Extra-Regio,
 GRZZZ,3.0,,,,Extra-Regio
-ES,0.0,ESPAÑA ,,,
+ES,0.0,ESPAÑA,,,
 ES1,1.0,,NOROESTE,,
 ES11,2.0,,,Galicia,
 ES111,3.0,,,,A Coruña
@@ -1013,7 +1013,7 @@ FR940,3.0,,,,Réunion
 FRZ,1.0,,EXTRA-REGIO,,
 FRZZ,2.0,,,Extra-Regio,
 FRZZZ,3.0,,,,Extra-Regio
-IT,0.0,ITALIA ,,,
+IT,0.0,ITALIA,,,
 ITC,1.0,,NORD-OVEST,,
 ITC1,2.0,,,Piemonte,
 ITC11,3.0,,,,Torino
@@ -1139,15 +1139,15 @@ ITG17,3.0,,,,Catania
 ITG18,3.0,,,,Ragusa
 ITG19,3.0,,,,Siracusa
 ITG2,2.0,,,Sardegna,
-,3.0,,,,Sassari 
+,3.0,,,,Sassari
 ITG25,3.0,,,,Sassari
 ITG29,3.0,,,,Olbia-Tempio
-,3.0,,,,Nuoro 
-,3.0,,,,Oristano 
+,3.0,,,,Nuoro
+,3.0,,,,Oristano
 ITG26,3.0,,,,Nuoro
 ITG28,3.0,,,,Oristano
 ITG2A,3.0,,,,Ogliastra
-,3.0,,,,Cagliari 
+,3.0,,,,Cagliari
 ITG27,3.0,,,,Cagliari
 ITG2B,3.0,,,,Medio Campidano
 ITG2C,3.0,,,,Carbonia-Iglesias
@@ -1238,7 +1238,7 @@ MT002,3.0,,,,Gozo and Comino / Għawdex u Kemmuna
 MTZ,1.0,,EXTRA-REGIO,,
 MTZZ,2.0,,,Extra-Regio,
 MTZZZ,3.0,,,,Extra-Regio
-NL,0.0,NEDERLAND ,,,
+NL,0.0,NEDERLAND,,,
 NL1,1.0,,NOORD-NEDERLAND,,
 NL11,2.0,,,Groningen,
 NL111,3.0,,,,Oost-Groningen
@@ -1260,9 +1260,9 @@ NL213,3.0,,,,Twente
 NL22,2.0,,,Gelderland,
 NL221,3.0,,,,Veluwe
 NL224,3.0,,,,Zuidwest-Gelderland
- ,3.0,,,,Achterhoek
+,3.0,,,,Achterhoek
 NL225,3.0,,,,Achterhoek
- ,3.0,,,,Arnhem/Nijmegen
+,3.0,,,,Arnhem/Nijmegen
 NL226,3.0,,,,Arnhem/Nijmegen
 NL23,2.0,,,Flevoland,
 NL230,3.0,,,,Flevoland
@@ -1383,7 +1383,7 @@ PL22,2.0,,,Śląskie,
 PL224,3.0,,,,Częstochowski
 PL225,3.0,,,,Bielski
 PL227,3.0,,,,Rybnicki
-,3.0,,,,Centralny śląski  
+,3.0,,,,Centralny śląski
 PL228,3.0,,,,Bytomski
 PL229,3.0,,,,Gliwicki
 PL22A,3.0,,,,Katowicki
@@ -1553,7 +1553,7 @@ RO316,3.0,,,,Prahova
 RO317,3.0,`,,,Teleorman
 RO32,2.0,,,Bucureşti - Ilfov,
 RO321,3.0,,,,Bucureşti
-RO322,3.0,, ,,Ilfov
+RO322,3.0,,,,Ilfov
 RO4,1.0,,MACROREGIUNEA PATRU,,
 RO41,2.0,,,Sud-Vest Oltenia,
 RO411,3.0,,,,Dolj
@@ -1625,7 +1625,7 @@ FI19,2.0,,,Länsi-Suomi,
 FI193,3.0,,,,Keski-Suomi
 FI194,3.0,,,,Etelä-Pohjanmaa
 FI195,3.0,,,,Pohjanmaa
- ,3.0,,,,Satakunta
+,3.0,,,,Satakunta
 FI196,3.0,,,,Satakunta
 ,3.0,,,,Pirkanmaa
 FI197,3.0,,,,Pirkanmaa
@@ -1645,12 +1645,12 @@ SE1,1.0,,ÖSTRA SVERIGE,,
 SE11,2.0,,,Stockholm,
 SE110,3.0,,,,Stockholms län
 SE12,2.0,,,Östra Mellansverige,
- ,3.0,,,,Uppsala län
+,3.0,,,,Uppsala län
 SE121,3.0,,,,Uppsala län
 SE122,3.0,,,,Södermanlands län
 SE123,3.0,,,,Östergötlands län
 SE124,3.0,,,,Örebro län
- ,3.0,,,,Västmanlands län
+,3.0,,,,Västmanlands län
 SE125,3.0,,,,Västmanlands län
 SE2,1.0,,SÖDRA SVERIGE,,
 SE21,2.0,,,Småland med öarna,
@@ -1845,14 +1845,14 @@ UKM35,3.0,,,,"Inverclyde, East Renfrewshire and Renfrewshire"
 UKM36,3.0,,,,North Lanarkshire
 UKM37,3.0,,,,South Ayrshire
 UKM38,3.0,,,,South Lanarkshire
- ,2.0,,,North Eastern Scotland,
+,2.0,,,North Eastern Scotland,
 UKM5,2.0,,,North Eastern Scotland,
- ,3.0,,,,Aberdeen City and Aberdeenshire
+,3.0,,,,Aberdeen City and Aberdeenshire
 UKM50,3.0,,,,Aberdeen City and Aberdeenshire
- ,2.0,,,Highlands and Islands,
+,2.0,,,Highlands and Islands,
 UKM6,2.0,,,Highlands and Islands,
 UKM61,3.0,,,,Caithness & Sutherland and Ross & Cromarty
- ,3.0,,,,"Inverness & Nairn and Moray, Badenoch & Strathspey"
+,3.0,,,,"Inverness & Nairn and Moray, Badenoch & Strathspey"
 UKM62,3.0,,,,"Inverness & Nairn and Moray, Badenoch & Strathspey"
 UKM63,3.0,,,,"Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute"
 UKM64,3.0,,,,Eilean Siar (Western Isles)
@@ -1868,9 +1868,6 @@ UKN05,3.0,,,,West and South of Northern Ireland
 UKZ,1.0,,EXTRA-REGIO,,
 UKZZ,2.0,,,Extra-Regio,
 UKZZZ,3.0,,,,Extra-Regio
-,,,,,
-,,,,,
-Note: NUTS 2006 codes in italics and with the note (part) are created from whole NUTS 2003 regions. ,,,,,
+Note: NUTS 2006 codes in italics and with the note (part) are created from whole NUTS 2003 regions.,,,,,
 Data can thus be aggregated from NUTS 2003 to NUTS 2006 for these regions,,,,,
-,,,,,
 Note: NUTS 2003 codes in italics and with the note (part) are split in a number of whole NUTS 2006 regions.,,,,,
