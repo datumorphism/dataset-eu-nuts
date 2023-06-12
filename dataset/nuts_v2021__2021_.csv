@@ -2002,8 +2002,8 @@ RSZZ,2.0,,,Extra-Regio NUTS 2,
 RSZZZ,3.0,,,,Extra-Regio NUTS 3
 TR,0.0,Türkiye,,,
 TR1,1.0,,İstanbul,,
-TR10 ,2.0,,,İstanbul,
-TR100 ,3.0,,,,İstanbul
+TR10,2.0,,,İstanbul,
+TR100,3.0,,,,İstanbul
 TR2,1.0,,Batı Marmara,,
 TR21,2.0,,,"Tekirdağ, Edirne, Kırklareli",
 TR211,3.0,,,,Tekirdağ
@@ -2014,7 +2014,7 @@ TR221,3.0,,,,Balıkesir
 TR222,3.0,,,,Çanakkale
 TR3,1.0,,Ege,,
 TR31,2.0,,,İzmir,
-TR310 ,3.0,,,,İzmir
+TR310,3.0,,,,İzmir
 TR32,2.0,,,"Aydın, Denizli, Muğla",
 TR321,3.0,,,,Aydın
 TR322,3.0,,,,Denizli
@@ -2037,7 +2037,7 @@ TR424,3.0,,,,Bolu
 TR425,3.0,,,,Yalova
 TR5,1.0,,Batı Anadolu,,
 TR51,2.0,,,Ankara,
-TR510 ,3.0,,,,Ankara
+TR510,3.0,,,,Ankara
 TR52,2.0,,,"Konya, Karaman",
 TR521,3.0,,,,Konya
 TR522,3.0,,,,Karaman
@@ -2079,7 +2079,7 @@ TR832,3.0,,,,Tokat
 TR833,3.0,,,,Çorum
 TR834,3.0,,,,Amasya
 TR9,1.0,,Doğu Karadeniz,,
-TR90 ,2.0,,,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",
+TR90,2.0,,,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",
 TR901,3.0,,,,Trabzon
 TR902,3.0,,,,Ordu
 TR903,3.0,,,,Giresun
