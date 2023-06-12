@@ -30,9 +30,12 @@ def download_excel(data_remote, data_local, sheet, code_col, skiprows=None):
         }
 
         df = df.rename(columns=keep_cols)[
-            set(keep_cols.values())
+            list(set(keep_cols.values()))
         ][ORDER_COLUMNS]
 
+    df = df.dropna(how="all")
+    for c in ["nuts_code", "country", "nuts_1", "nuts_2", "nuts_3"]:
+        df[c] = df[c].str.strip()
     df.to_csv(data_local, index=False)
 
 

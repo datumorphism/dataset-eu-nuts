@@ -1,5 +1,5 @@
 nuts_code,nuts_level,country,nuts_1,nuts_2,nuts_3
-BE,0.0,BELGIQUE-BELGIË ,,,
+BE,0.0,BELGIQUE-BELGIË,,,
 BE1,1.0,,RÉGION DE BRUXELLES-CAPITALE / BRUSSELS HOOFDSTEDELIJK GEWEST,,
 BE10,2.0,,,Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest,
 BE100,3.0,,,,Arr. de Bruxelles-Capitale / Arr. van Brussel-Hoofdstad
@@ -149,7 +149,7 @@ DK050,3.0,,,,Nordjylland
 DKZ,1.0,,EXTRA-REGIO NUTS 1,,
 DKZZ,2.0,,,Extra-Regio NUTS 2,
 DKZZZ,3.0,,,,Extra-Regio NUTS 3
-DE,0.0,DEUTSCHLAND ,,,
+DE,0.0,DEUTSCHLAND,,,
 DE1,1.0,,BADEN-WÜRTTEMBERG,,
 DE11,2.0,,,Stuttgart,
 DE111,3.0,,,,"Stuttgart, Stadtkreis"
@@ -715,7 +715,7 @@ EL3,1.0,,ATTIKΗ,,
 EL30,2.0,,,Aττική,
 ,3.0,,,,Aττική
 EL301,3.0,,,,Βόρειος Τομέας Αθηνών
-EL302,3.0,,,,Δυτικός Τομέας Αθηνών 
+EL302,3.0,,,,Δυτικός Τομέας Αθηνών
 EL303,3.0,,,,Κεντρικός Τομέας Αθηνών
 EL304,3.0,,,,Νότιος Τομέας Αθηνών
 EL305,3.0,,,,Ανατολική Αττική
@@ -737,7 +737,7 @@ EL434,3.0,,,,Χανιά
 ELZ,1.0,,EXTRA-REGIO NUTS 1,,
 ELZZ,2.0,,,Extra-Regio NUTS 2,
 ELZZZ,3.0,,,,Extra-Regio NUTS 3
-ES,0.0,ESPAÑA ,,,
+ES,0.0,ESPAÑA,,,
 ES1,1.0,,NOROESTE,,
 ES11,2.0,,,Galicia,
 ES111,3.0,,,,A Coruña
@@ -998,7 +998,7 @@ HR04E,3.0,,,,Sisačko-moslavačka županija
 HRZ,1.0,,EXTRA-REGIO NUTS 1,,
 HRZZ,2.0,,,Extra-Regio NUTS 2,
 HRZZZ,3.0,,,,Extra-Regio NUTS 3
-IT,0.0,ITALIA ,,,
+IT,0.0,ITALIA,,,
 ITC,1.0,,NORD-OVEST,,
 ITC1,2.0,,,Piemonte,
 ITC11,3.0,,,,Torino
@@ -1222,7 +1222,7 @@ MT002,3.0,,,,Gozo and Comino / Għawdex u Kemmuna
 MTZ,1.0,,EXTRA-REGIO NUTS 1,,
 MTZZ,2.0,,,Extra-Regio NUTS 2,
 MTZZZ,3.0,,,,Extra-Regio NUTS 3
-NL,0.0,NEDERLAND ,,,
+NL,0.0,NEDERLAND,,,
 NL1,1.0,,NOORD-NEDERLAND,,
 NL11,2.0,,,Groningen,
 NL111,3.0,,,,Oost-Groningen
@@ -1546,7 +1546,7 @@ RO316,3.0,,,,Prahova
 RO317,3.0,`,,,Teleorman
 RO32,2.0,,,Bucureşti - Ilfov,
 RO321,3.0,,,,Bucureşti
-RO322,3.0,, ,,Ilfov
+RO322,3.0,,,,Ilfov
 RO4,1.0,,MACROREGIUNEA PATRU,,
 RO41,2.0,,,Sud-Vest Oltenia,
 RO411,3.0,,,,Dolj
@@ -1915,9 +1915,3 @@ UKN05,3.0,,,,West and South of Northern Ireland
 UKZ,1.0,,EXTRA-REGIO NUTS 1,,
 UKZZ,2.0,,,Extra-Regio NUTS 2,
 UKZZZ,3.0,,,,Extra-Regio NUTS 3
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,

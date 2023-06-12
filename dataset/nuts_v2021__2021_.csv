@@ -36,8 +36,8 @@ BE31,2.0,,,Prov. Brabant Wallon,
 BE310,3.0,,,,Arr. Nivelles
 BE32,2.0,,,Prov. Hainaut,
 BE323,3.0,,,,Arr. Mons
-BE328,,,,,Arr. Tournai-Mouscron
-BE329,,,,,Arr. La Louvière
+BE328,3.0,,,,Arr. Tournai-Mouscron
+BE329,3.0,,,,Arr. La Louvière
 BE32A,3.0,,,,Arr. Ath
 BE32B,3.0,,,,Arr. Charleroi
 BE32C,3.0,,,,Arr. Soignies
@@ -61,8 +61,8 @@ BE353,3.0,,,,Arr. Philippeville
 BEZ,1.0,,Extra-Regio NUTS 1,,
 BEZZ,2.0,,,Extra-Regio NUTS 2,
 BEZZZ,3.0,,,,Extra-Regio NUTS 3
-BG,0.0,България ,,,
-BG3,1.0,,Северна и югоизточна България,,
+BG,0.0,България,,,
+BG3,1.0,,Северна и Югоизточна България,,
 BG31,2.0,,,Северозападен,
 BG311,3.0,,,,Видин
 BG312,3.0,,,,Монтана
@@ -85,7 +85,7 @@ BG341,3.0,,,,Бургас
 BG342,3.0,,,,Сливен
 BG343,3.0,,,,Ямбол
 BG344,3.0,,,,Стара Загора
-BG4,1.0,,Югозападна и южна централна България,,
+BG4,1.0,,Югозападна и Южна централна България,,
 BG41,2.0,,,Югозападен,
 BG411,3.0,,,,София (столица)
 BG412,3.0,,,,София
@@ -625,9 +625,9 @@ IE04,2.0,,,Northern and Western,
 IE041,3.0,,,,Border
 IE042,3.0,,,,West
 IE05,2.0,,,Southern,
-IE051,3.0,,,,Mid-West 
-IE052,3.0,,,,South-East 
-IE053,3.0,,,,South-West 
+IE051,3.0,,,,Mid-West
+IE052,3.0,,,,South-East
+IE053,3.0,,,,South-West
 IE06,2.0,,,Eastern and Midland,
 IE061,3.0,,,,Dublin
 IE062,3.0,,,,Mid-East
@@ -635,8 +635,8 @@ IE063,3.0,,,,Midland
 IEZ,1.0,,Extra-Regio NUTS 1,,
 IEZZ,2.0,,,Extra-Regio NUTS 2,
 IEZZZ,3.0,,,,Extra-Regio NUTS 3
-EL,0.0,Ελλάδα ,,,
-EL3,1.0,,Αττική ,,
+EL,0.0,Ελλάδα,,,
+EL3,1.0,,Αττική,,
 EL30,2.0,,,Aττική,
 EL301,3.0,,,,Βόρειος Τομέας Αθηνών
 EL302,3.0,,,,Δυτικός Τομέας Αθηνών
@@ -761,7 +761,7 @@ ES511,3.0,,,,Barcelona
 ES512,3.0,,,,Girona
 ES513,3.0,,,,Lleida
 ES514,3.0,,,,Tarragona
-ES52,2.0,,,Comunitat Valenciana ,
+ES52,2.0,,,Comunitat Valenciana,
 ES521,3.0,,,,Alicante/Alacant
 ES522,3.0,,,,Castellón/Castelló
 ES523,3.0,,,,Valencia/València
@@ -801,11 +801,11 @@ FR,0.0,France,,,
 FR1,1.0,,Ile-de-France,,
 FR10,2.0,,,Ile-de-France,
 FR101,3.0,,,,Paris
-FR102,3.0,,,,Seine-et-Marne 
-FR103,3.0,,,,Yvelines 
+FR102,3.0,,,,Seine-et-Marne
+FR103,3.0,,,,Yvelines
 FR104,3.0,,,,Essonne
-FR105,3.0,,,,Hauts-de-Seine 
-FR106,3.0,,,,Seine-Saint-Denis 
+FR105,3.0,,,,Hauts-de-Seine
+FR106,3.0,,,,Seine-Saint-Denis
 FR107,3.0,,,,Val-de-Marne
 FR108,3.0,,,,Val-d’Oise
 FRB,1.0,,Centre — Val de Loire,,
@@ -828,11 +828,11 @@ FRC22,3.0,,,,Jura
 FRC23,3.0,,,,Haute-Saône
 FRC24,3.0,,,,Territoire de Belfort
 FRD,1.0,,Normandie,,
-FRD1,2.0,,,Basse-Normandie ,
-FRD11,3.0,,,,Calvados 
-FRD12,3.0,,,,Manche 
+FRD1,2.0,,,Basse-Normandie,
+FRD11,3.0,,,,Calvados
+FRD12,3.0,,,,Manche
 FRD13,3.0,,,,Orne
-FRD2,2.0,,,Haute-Normandie ,
+FRD2,2.0,,,Haute-Normandie,
 FRD21,3.0,,,,Eure
 FRD22,3.0,,,,Seine-Maritime
 FRE,1.0,,Hauts-de-France,,
@@ -853,8 +853,8 @@ FRF22,3.0,,,,Aube
 FRF23,3.0,,,,Marne
 FRF24,3.0,,,,Haute-Marne
 FRF3,2.0,,,Lorraine,
-FRF31,3.0,,,,Meurthe-et-Moselle 
-FRF32,3.0,,,,Meuse 
+FRF31,3.0,,,,Meurthe-et-Moselle
+FRF32,3.0,,,,Meuse
 FRF33,3.0,,,,Moselle
 FRF34,3.0,,,,Vosges
 FRG,1.0,,Pays de la Loire,,
@@ -899,7 +899,7 @@ FRJ22,3.0,,,,Aveyron
 FRJ23,3.0,,,,Haute-Garonne
 FRJ24,3.0,,,,Gers
 FRJ25,3.0,,,,Lot
-FRJ26,3.0,,,,Hautes-Pyrénées 
+FRJ26,3.0,,,,Hautes-Pyrénées
 FRJ27,3.0,,,,Tarn
 FRJ28,3.0,,,,Tarn-et-Garonne
 FRK,1.0,,Auvergne-Rhône-Alpes,,
@@ -920,7 +920,7 @@ FRK28,3.0,,,,Haute-Savoie
 FRL,1.0,,Provence-Alpes-Côte d’Azur,,
 FRL0,2.0,,,Provence-Alpes-Côte d’Azur,
 FRL01,3.0,,,,Alpes-de-Haute-Provence
-FRL02,3.0,,,,Hautes-Alpes 
+FRL02,3.0,,,,Hautes-Alpes
 FRL03,3.0,,,,Alpes-Maritimes
 FRL04,3.0,,,,Bouches-du-Rhône
 FRL05,3.0,,,,Var
@@ -932,14 +932,14 @@ FRM02,3.0,,,,Haute-Corse
 FRY,1.0,,RUP FR — Régions Ultrapériphériques Françaises,,
 FRY1,2.0,,,Guadeloupe,
 FRY10,3.0,,,,Guadeloupe
-FRY2,2.0,,,Martinique ,
-FRY20,3.0,,,,Martinique 
+FRY2,2.0,,,Martinique,
+FRY20,3.0,,,,Martinique
 FRY3,2.0,,,Guyane,
 FRY30,3.0,,,,Guyane
-FRY4,2.0,,,La Réunion ,
+FRY4,2.0,,,La Réunion,
 FRY40,3.0,,,,La Réunion
 FRY5,2.0,,,Mayotte,
-FRY50,3.0,,,,Mayotte 
+FRY50,3.0,,,,Mayotte
 FRZ,1.0,,Extra-Regio NUTS 1,,
 FRZZ,2.0,,,Extra-Regio NUTS 2,
 FRZZZ,3.0,,,,Extra-Regio NUTS 3
@@ -1110,7 +1110,7 @@ ITI45,3.0,,,,Frosinone
 ITZ,1.0,,Extra-Regio NUTS 1,,
 ITZZ,2.0,,,Extra-Regio NUTS 2,
 ITZZZ,3.0,,,,Extra-Regio NUTS 3
-CY,0.0,Κύπρος ,,,
+CY,0.0,Κύπρος,,,
 CY0,1.0,,Κύπρος,,
 CY00,2.0,,,Κύπρος,
 CY000,3.0,,,,Κύπρος
@@ -1133,7 +1133,7 @@ LT,0.0,Lietuva,,,
 LT0,1.0,,Lietuva,,
 LT01,2.0,,,Sostinės regionas,
 LT011,3.0,,,,Vilniaus apskritis
-LT02,2.0,,,Vidurio ir vakarų Lietuvos regionas ,
+LT02,2.0,,,Vidurio ir vakarų Lietuvos regionas,
 LT021,3.0,,,,Alytaus apskritis
 LT022,3.0,,,,Kauno apskritis
 LT023,3.0,,,,Klaipėdos apskritis
@@ -1489,7 +1489,7 @@ RO316,3.0,,,,Prahova
 RO317,3.0,,,,Teleorman
 RO32,2.0,,,Bucureşti-Ilfov,
 RO321,3.0,,,,Bucureşti
-RO322,3.0,, ,,Ilfov
+RO322,3.0,,,,Ilfov
 RO4,1.0,,Macroregiunea Patru,,
 RO41,2.0,,,Sud-Vest Oltenia,
 RO411,3.0,,,,Dolj
@@ -1832,7 +1832,7 @@ UKN0,2.0,,,Northern Ireland,
 UKN06,3.0,,,,Belfast
 UKN07,3.0,,,,"Armagh City, Banbridge and Craigavon"
 UKN08,3.0,,,,"Newry, Mourne and Down"
-UKN09,3.0,,,,Ards and North Down 
+UKN09,3.0,,,,Ards and North Down
 UKN0A,3.0,,,,Derry City and Strabane
 UKN0B,3.0,,,,Mid Ulster
 UKN0C,3.0,,,,Causeway Coast and Glens
@@ -1843,9 +1843,7 @@ UKN0G,3.0,,,,Fermanagh and Omagh
 UKZ,1.0,,Extra-Regio NUTS 1,,
 UKZZ,2.0,,,Extra-Regio NUTS 2,
 UKZZZ,3.0,,,,Extra-Regio NUTS 3
-,,,,,
 "Statistical regions (EFTA countries, candidate countries, potential candidates, other partners (Eastern Partnership etc.):",,,,,
-,,,,,
 IS,0.0,Ísland,,,
 IS0,1.0,,Ísland,,
 IS00,2.0,,,Ísland,
@@ -1880,7 +1878,7 @@ NO0A,2.0,,,Vestlandet,
 NO0A1,3.0,,,,Rogaland
 NO0A2,3.0,,,,Vestland
 NO0A3,3.0,,,,Møre og Romsdal
-NO0B,2.0,,,Jan Mayen and Svalbard,
+NO0B,2.0,,,Svalbard og Jan Mayen,
 NO0B1,3.0,,,,Jan Mayen
 NO0B2,3.0,,,,Svalbard
 NOZ,1.0,,Extra-Regio NUTS 1,,
@@ -1924,8 +1922,8 @@ CH070,3.0,,,,Ticino
 CHZ,1.0,,Extra-Regio NUTS 1,,
 CHZZ,2.0,,,Extra-Regio NUTS 2,
 CHZZZ,3.0,,,,Extra-Regio NUTS 3
-ME,0.0,Црна Гора ,,,
-ME0,1.0,,Црна Гора ,,
+ME,0.0,Црна Гора,,,
+ME0,1.0,,Црна Гора,,
 ME00,2.0,,,Црна Гора,
 ME000,3.0,,,,Црна Гора
 MEZ,1.0,,Extra-Regio NUTS 1,,
@@ -1966,7 +1964,7 @@ ALZ,1.0,,Extra-Regio NUTS 1,,
 ALZZ,2.0,,,Extra-Regio NUTS 2,
 ALZZZ,3.0,,,,Extra-Regio NUTS 3
 RS,0.0,Srbija/Сpбија,,,
-RS1,1.0,,Србија - север ,,
+RS1,1.0,,Србија - север,,
 RS11,2.0,,,Београдски регион,
 RS110,3.0,,,,Београдска област
 RS12,2.0,,,Регион Војводине,
@@ -1977,7 +1975,7 @@ RS124,3.0,,,,Севернобанатска област
 RS125,3.0,,,,Севернобачка област
 RS126,3.0,,,,Средњобанатска област
 RS127,3.0,,,,Сремска област
-RS2,1.0,,Србија - југ ,,
+RS2,1.0,,Србија - југ,,
 RS21,2.0,,,Регион Шумадије и Западне Србије,
 RS211,3.0,,,,Златиборска област
 RS212,3.0,,,,Колубарска област
